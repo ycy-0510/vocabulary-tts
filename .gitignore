@@ -1,3 +1,4 @@
 tts.json
 /venv/
 *.xlsx
+*.pyc

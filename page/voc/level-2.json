@@ -1,24 +1,6 @@
 [
   [
     {
-      "term": "BBQ",
-      "definition": "v. 烤肉 barbecue",
-      "example": "We're having a BBQ in the park tomorrow.\n我們明天要在公園烤肉。",
-      "sound": 1888
-    },
-    {
-      "term": "Confucius",
-      "definition": "n. 孔子",
-      "example": "Confucius was a Chinese philosopher.\n孔子是一位中國哲學家。",
-      "sound": 2465
-    },
-    {
-      "term": "Mandarin",
-      "definition": "n. 中國的官話(北京話)",
-      "example": "She is learning Mandarin.\n她正在學習中文(普通話)。",
-      "sound": 2744
-    },
-    {
       "term": "ability",
       "definition": "n. 能力;專門技能",
       "example": "She has the ability to speak three languages.\n她有說三種語言的能力。",
@@ -86,27 +68,27 @@
     },
     {
       "term": "aid",
-      "definition": "v. 有助於",
-      "example": "The new medicine will aid in her recovery.\n新藥將有助於她的康復。",
-      "sound": 1870
-    },
-    {
-      "term": "aid",
       "definition": "n. 幫助;助手;助聽器",
       "example": "She received financial aid to attend college.\n她獲得了經濟援助以就讀大學。",
       "sound": 2331
     },
     {
-      "term": "aim",
-      "definition": "v. 瞄準,對準",
-      "example": "I aimed the camera at the bird.\n我把相機對準了那隻鳥。",
-      "sound": 1871
+      "term": "aid",
+      "definition": "v. 有助於",
+      "example": "The new medicine will aid in her recovery.\n新藥將有助於她的康復。",
+      "sound": 1870
     },
     {
       "term": "aim",
       "definition": "n. 目標,目的",
       "example": "Her aim is to become a doctor.\n她的目標是成為一名醫生。",
       "sound": 2332
+    },
+    {
+      "term": "aim",
+      "definition": "v. 瞄準,對準",
+      "example": "I aimed the camera at the bird.\n我把相機對準了那隻鳥。",
+      "sound": 1871
     },
     {
       "term": "aircraft",
@@ -215,9 +197,7 @@
       "definition": "adv. 無論如何,總之",
       "example": "I don't know how it happened, but anyhow, we're here now.\n我不知道事情是怎麼發生的，但總之，我們現在在這裡了。",
       "sound": 2267
-    }
-  ],
-  [
+    },
     {
       "term": "anyplace",
       "definition": "adv. 任何地方(=anywhere)",
@@ -235,7 +215,9 @@
       "definition": "adv. 不管怎樣",
       "example": "I was late, but anyway, the meeting started without me.\n我遲到了，但不管怎樣，會議還是開始了，沒有我。",
       "sound": 2270
-    },
+    }
+  ],
+  [
     {
       "term": "anywhere",
       "definition": "adv. 任何地方",
@@ -310,15 +292,15 @@
     },
     {
       "term": "arrest",
-      "definition": "n. 逮捕;遏止",
-      "example": "The police made an arrest after the robbery.\n警方在搶劫案後進行了逮捕。",
-      "sound": 2348
-    },
-    {
-      "term": "arrest",
       "definition": "v. 逮捕;拘留",
       "example": "The police arrested the thief.\n警察逮捕了那個小偷。",
       "sound": 1878
+    },
+    {
+      "term": "arrest",
+      "definition": "n. 逮捕;遏止",
+      "example": "The police made an arrest after the robbery.\n警方在搶劫案後進行了逮捕。",
+      "sound": 2348
     },
     {
       "term": "arrive",
@@ -425,7 +407,7 @@
     {
       "term": "balcony",
       "definition": "n. 陽臺",
-      "example": "We sat on the balcony and enjoyed the view.\n我們坐在陽臺上欣賞風景。",
+      "example": "We sat on the balcony and enjoyed the view.\n我們坐在陽台上欣賞風景。",
       "sound": 2356
     },
     {
@@ -433,9 +415,7 @@
       "definition": "n. 竹子",
       "example": "Pandas love to eat bamboo.\n熊貓喜歡吃竹子。",
       "sound": 2357
-    }
-  ],
-  [
+    },
     {
       "term": "banker",
       "definition": "n. 銀行家;莊家",
@@ -453,6 +433,14 @@
       "definition": "n. 烤肉",
       "example": "We're having a barbecue in the backyard this weekend.\n我們這個週末在後院烤肉。",
       "sound": 2359
+    }
+  ],
+  [
+    {
+      "term": "bark",
+      "definition": "v. 狗叫",
+      "example": "The dog will bark at strangers.\n那隻狗會對陌生人吠叫。",
+      "sound": 1886
     },
     {
       "term": "bark",
@@ -461,15 +449,9 @@
       "sound": 2360
     },
     {
-      "term": "bark",
-      "definition": "v. 狗叫",
-      "example": "The dog will bark at strangers.\n那隻狗會對陌生人吠叫。",
-      "sound": 1886
-    },
-    {
       "term": "basement",
       "definition": "n. 地下室",
-      "example": "We keep our old furniture in the basement.\n我們把舊傢俱放在地下室。",
+      "example": "We keep our old furniture in the basement.\n我們把舊家具放在地下室。",
       "sound": 2361
     },
     {
@@ -481,8 +463,14 @@
     {
       "term": "basis",
       "definition": "n. 基礎",
-      "example": "The foundation of the argument is based on this data.\n這個論點的基礎是基於這些資料。",
+      "example": "The foundation of the argument is based on this data.\n這個論點的基礎是基於這些數據。",
       "sound": 2363
+    },
+    {
+      "term": "battle",
+      "definition": "n. 戰鬥;戰役",
+      "example": "The soldiers prepared for battle.\n士兵們準備好作戰。",
+      "sound": 2364
     },
     {
       "term": "battle",
@@ -491,10 +479,10 @@
       "sound": 1887
     },
     {
-      "term": "battle",
-      "definition": "n. 戰鬥;戰役",
-      "example": "The soldiers prepared for battle.\n士兵們準備好作戰。",
-      "sound": 2364
+      "term": "BBQ",
+      "definition": "v. 烤肉 barbecue",
+      "example": "We're having a BBQ in the park tomorrow.\n我們明天要在公園烤肉。",
+      "sound": 1888
     },
     {
       "term": "bead",
@@ -618,15 +606,15 @@
     },
     {
       "term": "besides",
-      "definition": "prep. 除...之外",
-      "example": "Besides pizza, I also like pasta.\n除了披薩，我也喜歡義大利麵。",
-      "sound": 2310
-    },
-    {
-      "term": "besides",
       "definition": "adv. 並且",
       "example": "Besides being tired, she was also hungry.\n除了累之外，她也餓了。",
       "sound": 2274
+    },
+    {
+      "term": "besides",
+      "definition": "prep. 除...之外",
+      "example": "Besides pizza, I also like pasta.\n除了披薩，我也喜歡義大利麵。",
+      "sound": 2310
     },
     {
       "term": "bet",
@@ -642,18 +630,16 @@
     },
     {
       "term": "beyond",
+      "definition": "prep. 越出;晚於;在...那一邊",
+      "example": "The shop is beyond the bridge.\n那家商店在橋的那一邊。",
+      "sound": 2311
+    },
+    {
+      "term": "beyond",
       "definition": "adv. 在更遠處",
       "example": "The mountains are beyond the river.\n山脈在河流的更遠處。",
       "sound": 2275
     },
-    {
-      "term": "beyond",
-      "definition": "prep. 越出;晚於;在...那一邊",
-      "example": "The shop is beyond the bridge.\n那家商店在橋的那一邊。",
-      "sound": 2311
-    }
-  ],
-  [
     {
       "term": "bill",
       "definition": "n. 帳單; 鈔票",
@@ -665,7 +651,9 @@
       "definition": "v. 記入帳",
       "example": "I'll bill you for the materials.\n我會把材料費用記入你的帳單。",
       "sound": 1896
-    },
+    }
+  ],
+  [
     {
       "term": "bind",
       "definition": "v. 捆;綁",
@@ -686,27 +674,27 @@
     },
     {
       "term": "blank",
+      "definition": "adj. 空白的;空的,無內容的;茫然的",
+      "example": "She stared at the blank page, unsure where to begin.\n她凝視著空白的頁面，不知道從哪裡開始。",
+      "sound": 1676
+    },
+    {
+      "term": "blank",
       "definition": "n. 空白",
       "example": "Please fill in the blank.\n請填寫空白處。",
       "sound": 2381
     },
     {
-      "term": "blank",
-      "definition": "adj. 空白的;空的,無內容的;茫然的",
-      "example": "She stared at the blank page, unsure where to begin.\n她凝視著空白的頁面，不知道從哪裡開始。",
-      "sound": 1676
+      "term": "blind",
+      "definition": "adj. 瞎的",
+      "example": "He is blind in his left eye.\n他的左眼失明了。",
+      "sound": 1677
     },
     {
       "term": "blind",
       "definition": "v. 使看不見,使失明;使失去理智",
       "example": "The accident blinded him.\n那場意外使他失明。",
       "sound": 1898
-    },
-    {
-      "term": "blind",
-      "definition": "adj. 瞎的",
-      "example": "He is blind in his left eye.\n他的左眼失明瞭。",
-      "sound": 1677
     },
     {
       "term": "bloody",
@@ -728,15 +716,15 @@
     },
     {
       "term": "boil",
-      "definition": "v. (水等)沸騰;開;滾",
-      "example": "The water is starting to boil.\n水開始沸騰了。",
-      "sound": 1900
-    },
-    {
-      "term": "boil",
       "definition": "n. 沸騰;煮沸;翻滾",
       "example": "The water began to boil.\n水開始沸騰了。",
       "sound": 2383
+    },
+    {
+      "term": "boil",
+      "definition": "v. (水等)沸騰;開;滾",
+      "example": "The water is starting to boil.\n水開始沸騰了。",
+      "sound": 1900
     },
     {
       "term": "bomb",
@@ -770,27 +758,27 @@
     },
     {
       "term": "boss",
-      "definition": "v. 指揮;作威作福",
-      "example": "He always tries to boss people around.\n他總是試圖指揮別人。",
-      "sound": 1903
-    },
-    {
-      "term": "boss",
       "definition": "n. 老闆",
       "example": "My boss is very understanding.\n我的老闆很通情達理。",
       "sound": 2386
     },
     {
-      "term": "bother",
-      "definition": "n. 煩惱,麻煩;使人煩惱的人(或事物)",
-      "example": "Don't bother me while I'm working.\n在我工作的時候不要打擾我。",
-      "sound": 2387
+      "term": "boss",
+      "definition": "v. 指揮;作威作福",
+      "example": "He always tries to boss people around.\n他總是試圖指揮別人。",
+      "sound": 1903
     },
     {
       "term": "bother",
       "definition": "v. 煩擾",
       "example": "Don't bother me, I'm busy.\n別煩我，我很忙。",
       "sound": 1904
+    },
+    {
+      "term": "bother",
+      "definition": "n. 煩惱,麻煩;使人煩惱的人(或事物)",
+      "example": "Don't bother me while I'm working.\n在我工作的時候不要打擾我。",
+      "sound": 2387
     },
     {
       "term": "bottle",
@@ -806,15 +794,15 @@
     },
     {
       "term": "bow",
-      "definition": "n. 弓",
-      "example": "He shot an arrow from his bow.\n他用弓射出了一支箭。",
-      "sound": 2389
-    },
-    {
-      "term": "bow",
       "definition": "v. 鞠躬",
       "example": "She bowed her head in respect.\n她點頭表示尊敬。",
       "sound": 1906
+    },
+    {
+      "term": "bow",
+      "definition": "n. 弓",
+      "example": "He shot an arrow from his bow.\n他用弓射出了一支箭。",
+      "sound": 2389
     },
     {
       "term": "bowling",
@@ -830,27 +818,27 @@
     },
     {
       "term": "branch",
-      "definition": "n. 樹枝;支部",
-      "example": "The bird landed on a branch of the tree.\n鳥落在樹枝上。",
-      "sound": 2392
-    },
-    {
-      "term": "branch",
       "definition": "v. 出枝;分支;分岔",
       "example": "The road branches off to the left after the bridge.\n這條路在橋後向左分岔。",
       "sound": 1907
     },
     {
-      "term": "brand",
-      "definition": "n. 商標",
-      "example": "That new brand of coffee is really popular.\n那個新的咖啡品牌非常受歡迎。",
-      "sound": 2393
+      "term": "branch",
+      "definition": "n. 樹枝;支部",
+      "example": "The bird landed on a branch of the tree.\n鳥落在樹枝上。",
+      "sound": 2392
     },
     {
       "term": "brand",
       "definition": "v. 印...商標於",
       "example": "The farmer will brand the cattle with his mark.\n農夫將會在他飼養的牛隻身上印上他的標記。",
       "sound": 1908
+    },
+    {
+      "term": "brand",
+      "definition": "n. 商標",
+      "example": "That new brand of coffee is really popular.\n那個新的咖啡品牌非常受歡迎。",
+      "sound": 2393
     },
     {
       "term": "brick",
@@ -866,24 +854,24 @@
     },
     {
       "term": "brief",
-      "definition": "adj. 短暫的",
-      "example": "I had a brief conversation with him.\n我跟他簡短地聊了一下。",
-      "sound": 1680
-    }
-  ],
-  [
-    {
-      "term": "brief",
       "definition": "v. 簡報;作...的提要",
       "example": "The manager will brief the team on the new project.\n經理將向團隊簡報新專案。",
       "sound": 1909
+    },
+    {
+      "term": "brief",
+      "definition": "adj. 短暫的",
+      "example": "I had a brief conversation with him.\n我跟他簡短地聊了一下。",
+      "sound": 1680
     },
     {
       "term": "broad",
       "definition": "adj. 寬廣的",
       "example": "The river is broad.\n這條河很寬。",
       "sound": 1681
-    },
+    }
+  ],
+  [
     {
       "term": "broadcast",
       "definition": "n. 廣播;廣播節目;散佈;播種",
@@ -893,7 +881,7 @@
     {
       "term": "broadcast",
       "definition": "v. 廣播",
-      "example": "The news will be broadcast on the radio at 6 PM.\n新聞將於下午6點在廣播電臺播出。",
+      "example": "The news will be broadcast on the radio at 6 PM.\n新聞將於下午6點在廣播電台播出。",
       "sound": 1910
     },
     {
@@ -904,15 +892,15 @@
     },
     {
       "term": "brush",
-      "definition": "n. 刷子",
-      "example": "I use a brush to clean my teeth.\n我用刷子刷牙。",
-      "sound": 2398
-    },
-    {
-      "term": "brush",
       "definition": "v. 刷",
       "example": "I brush my teeth every morning.\n我每天早上刷牙。",
       "sound": 1911
+    },
+    {
+      "term": "brush",
+      "definition": "n. 刷子",
+      "example": "I use a brush to clean my teeth.\n我用刷子刷牙。",
+      "sound": 2398
     },
     {
       "term": "bun",
@@ -934,27 +922,27 @@
     },
     {
       "term": "burn",
-      "definition": "v. 燒;燙傷",
-      "example": "I accidentally burned my hand on the hot stove.\n我不小心被熱爐子燙傷了手。",
-      "sound": 1912
-    },
-    {
-      "term": "burn",
       "definition": "n. 灼傷",
       "example": "She suffered a burn from the hot stove.\n她被熱爐燙傷了。",
       "sound": 2402
     },
     {
-      "term": "burst",
-      "definition": "v. 爆開;闖入",
-      "example": "The balloon burst when he blew it up.\n當他把它吹脹時，氣球爆掉了。",
-      "sound": 1913
+      "term": "burn",
+      "definition": "v. 燒;燙傷",
+      "example": "I accidentally burned my hand on the hot stove.\n我不小心被熱爐子燙傷了手。",
+      "sound": 1912
     },
     {
       "term": "burst",
       "definition": "n. 爆炸;破裂;缺口",
       "example": "The balloon burst when it hit the sharp object.\n氣球碰到尖銳物品時爆炸了。",
       "sound": 2403
+    },
+    {
+      "term": "burst",
+      "definition": "v. 爆開;闖入",
+      "example": "The balloon burst when he blew it up.\n當他把它吹脹時，氣球爆掉了。",
+      "sound": 1913
     },
     {
       "term": "business",
@@ -989,7 +977,7 @@
     {
       "term": "cable",
       "definition": "v. 發越洋電報",
-      "example": "He cabled his family with the good news.\n他發越洋電報告訴家人這個好訊息。",
+      "example": "He cabled his family with the good news.\n他發越洋電報告訴家人這個好消息。",
       "sound": 1915
     },
     {
@@ -1012,6 +1000,12 @@
     },
     {
       "term": "calm",
+      "definition": "v. 變安靜;使鎮定",
+      "example": "She tried to calm her nerves before the interview.\n她在面試前試著讓自己鎮定下來。",
+      "sound": 1916
+    },
+    {
+      "term": "calm",
       "definition": "adj. 寧靜的",
       "example": "The sea was calm.\n大海很平靜。",
       "sound": 1682
@@ -1021,12 +1015,6 @@
       "definition": "n. 安靜;鎮定;平靜;無風",
       "example": "The sea was calm this morning.\n今天早上大海很平靜。",
       "sound": 2411
-    },
-    {
-      "term": "calm",
-      "definition": "v. 變安靜;使鎮定",
-      "example": "She tried to calm her nerves before the interview.\n她在面試前試著讓自己鎮定下來。",
-      "sound": 1916
     },
     {
       "term": "cancel",
@@ -1072,24 +1060,22 @@
     },
     {
       "term": "cart",
-      "definition": "n. 手推車",
-      "example": "I used a cart to carry my groceries from the store.\n我用手推車把我的雜貨從商店裡運出來。",
-      "sound": 2417
-    },
-    {
-      "term": "cart",
       "definition": "v. 用運貨車裝運",
       "example": "They carted the supplies to the base camp.\n他們用運貨車把補給品運到大本營。",
       "sound": 1919
+    },
+    {
+      "term": "cart",
+      "definition": "n. 手推車",
+      "example": "I used a cart to carry my groceries from the store.\n我用手推車把我的雜貨從商店裡運出來。",
+      "sound": 2417
     },
     {
       "term": "cartoon",
       "definition": "n. 卡通",
       "example": "I love watching cartoons on Saturday mornings.\n我喜歡在星期六早上看卡通。",
       "sound": 2418
-    }
-  ],
-  [
+    },
     {
       "term": "cartoon",
       "definition": "v. 畫漫畫;畫草圖",
@@ -1098,15 +1084,17 @@
     },
     {
       "term": "cash",
-      "definition": "n. 現款",
-      "example": "I paid for the groceries with cash.\n我用現金支付了雜貨。",
-      "sound": 2419
-    },
-    {
-      "term": "cash",
       "definition": "v. 兌現",
       "example": "I need to cash this check at the bank.\n我需要在銀行兌現這張支票。",
       "sound": 1921
+    }
+  ],
+  [
+    {
+      "term": "cash",
+      "definition": "n. 現款",
+      "example": "I paid for the groceries with cash.\n我用現金支付了雜貨。",
+      "sound": 2419
     },
     {
       "term": "cassette",
@@ -1182,15 +1170,15 @@
     },
     {
       "term": "change",
-      "definition": "n. 零錢",
-      "example": "Do you have change for a dollar?\n你有找錢嗎？（給我找一塊錢的零錢嗎？）",
-      "sound": 2429
-    },
-    {
-      "term": "change",
       "definition": "v. 改變;更改",
       "example": "I need to change my shirt.\n我需要換一下我的襯衫。",
       "sound": 1924
+    },
+    {
+      "term": "change",
+      "definition": "n. 零錢",
+      "example": "Do you have change for a dollar?\n你有找錢嗎？（給我找一塊錢的零錢嗎？）",
+      "sound": 2429
     },
     {
       "term": "character",
@@ -1200,27 +1188,27 @@
     },
     {
       "term": "charge",
-      "definition": "v. 索價;充電",
-      "example": "The phone needs to charge.\n手機需要充電。",
-      "sound": 1925
-    },
-    {
-      "term": "charge",
       "definition": "n. 費用;充電",
       "example": "The restaurant added a service charge to the bill.\n餐廳在帳單上加收了服務費。",
       "sound": 2431
     },
     {
-      "term": "cheap",
-      "definition": "adj. 便宜的",
-      "example": "The shoes were cheap.\n這雙鞋很便宜。",
-      "sound": 1684
+      "term": "charge",
+      "definition": "v. 索價;充電",
+      "example": "The phone needs to charge.\n手機需要充電。",
+      "sound": 1925
     },
     {
       "term": "cheap",
       "definition": "adv. 便宜地;卑鄙地",
       "example": "He bought the shoes cheap.\n他便宜地買了這雙鞋。",
       "sound": 2276
+    },
+    {
+      "term": "cheap",
+      "definition": "adj. 便宜的",
+      "example": "The shoes were cheap.\n這雙鞋很便宜。",
+      "sound": 1684
     },
     {
       "term": "cheat",
@@ -1278,15 +1266,15 @@
     },
     {
       "term": "choice",
-      "definition": "n. 選擇",
-      "example": "I have a difficult choice to make.\n我有一個艱難的選擇要做。",
-      "sound": 2437
-    },
-    {
-      "term": "choice",
       "definition": "adj. 上等的,精選的;挑三揀四的",
       "example": "This restaurant serves choice cuts of beef.\n這家餐廳供應上等的牛肉。",
       "sound": 1688
+    },
+    {
+      "term": "choice",
+      "definition": "n. 選擇",
+      "example": "I have a difficult choice to make.\n我有一個艱難的選擇要做。",
+      "sound": 2437
     },
     {
       "term": "choose",
@@ -1297,7 +1285,7 @@
     {
       "term": "chopstick",
       "definition": "n. 筷子",
-      "example": "I learned how to use chopsticks when I visited China.\n我去中國的時候學會瞭如何使用筷子。",
+      "example": "I learned how to use chopsticks when I visited China.\n我去中國的時候學會了如何使用筷子。",
       "sound": 2438
     },
     {
@@ -1305,9 +1293,7 @@
       "definition": "v. 畫圓圈;圈出;盤旋;流傳",
       "example": "Please circle the correct answer.\n請圈出正確的答案。",
       "sound": 1928
-    }
-  ],
-  [
+    },
     {
       "term": "circle",
       "definition": "n. 圓圈;集團",
@@ -1319,7 +1305,9 @@
       "definition": "n. 市民;公民",
       "example": "Every citizen has the right to vote.\n每個公民都有投票權。",
       "sound": 2440
-    },
+    }
+  ],
+  [
     {
       "term": "claim",
       "definition": "n. 主張,斷言",
@@ -1358,15 +1346,15 @@
     },
     {
       "term": "claw",
-      "definition": "n. (動物的)爪,腳爪;(蟹,蝦等的)鉗,螯",
-      "example": "The cat used its claw to climb the tree.\n貓用爪子爬樹。",
-      "sound": 2444
-    },
-    {
-      "term": "claw",
       "definition": "v. 用爪子抓",
       "example": "The cat clawed at the scratching post.\n貓用爪子抓著抓柱。",
       "sound": 1931
+    },
+    {
+      "term": "claw",
+      "definition": "n. (動物的)爪,腳爪;(蟹,蝦等的)鉗,螯",
+      "example": "The cat used its claw to climb the tree.\n貓用爪子爬樹。",
+      "sound": 2444
     },
     {
       "term": "clay",
@@ -1436,15 +1424,15 @@
     },
     {
       "term": "clown",
-      "definition": "n. 小丑,丑角",
-      "example": "The clown entertained the children with silly jokes.\n小丑用滑稽的笑話娛樂孩子們。",
-      "sound": 2453
-    },
-    {
-      "term": "clown",
       "definition": "v. 開玩笑;裝傻",
       "example": "He was just clowning around to cheer us up.\n他只是在開玩笑來逗我們開心。",
       "sound": 1933
+    },
+    {
+      "term": "clown",
+      "definition": "n. 小丑,丑角",
+      "example": "The clown entertained the children with silly jokes.\n小丑用滑稽的笑話娛樂孩子們。",
+      "sound": 2453
     },
     {
       "term": "club",
@@ -1490,15 +1478,15 @@
     },
     {
       "term": "coin",
-      "definition": "n. 硬幣",
-      "example": "I found a coin on the ground.\n我在地上發現了一枚硬幣。",
-      "sound": 2459
-    },
-    {
-      "term": "coin",
       "definition": "v. 鑄造(貨幣);創造,杜撰(新詞等)",
       "example": "The government will coin a new slogan to promote tourism.\n政府將創造一個新的口號來推廣觀光。",
       "sound": 1936
+    },
+    {
+      "term": "coin",
+      "definition": "n. 硬幣",
+      "example": "I found a coin on the ground.\n我在地上發現了一枚硬幣。",
+      "sound": 2459
     },
     {
       "term": "collect",
@@ -1514,18 +1502,16 @@
     },
     {
       "term": "comb",
+      "definition": "n. 梳子",
+      "example": "I used a comb to brush my hair.\n我用梳子梳我的頭髮。",
+      "sound": 2460
+    },
+    {
+      "term": "comb",
       "definition": "v. 用梳子梳理",
       "example": "She combed her hair before the interview.\n她在面試前梳了頭髮。",
       "sound": 1938
     },
-    {
-      "term": "comb",
-      "definition": "n. 梳子",
-      "example": "I used a comb to brush my hair.\n我用梳子梳我的頭髮。",
-      "sound": 2460
-    }
-  ],
-  [
     {
       "term": "comfortable",
       "definition": "adj. 舒適的",
@@ -1537,7 +1523,9 @@
       "definition": "n. 公司",
       "example": "I work for a big company.\n我在一家大公司工作。",
       "sound": 2461
-    },
+    }
+  ],
+  [
     {
       "term": "compare",
       "definition": "v. 比較",
@@ -1593,6 +1581,12 @@
       "sound": 2464
     },
     {
+      "term": "Confucius",
+      "definition": "n. 孔子",
+      "example": "Confucius was a Chinese philosopher.\n孔子是一位中國哲學家。",
+      "sound": 2465
+    },
+    {
       "term": "congratulation",
       "definition": "n. 祝賀",
       "example": "Congratulations on your success!\n恭喜你的成功！",
@@ -1606,8 +1600,8 @@
     },
     {
       "term": "contact",
-      "definition": "v. 接觸;聯絡",
-      "example": "Please contact me if you have any questions.\n如果你有任何問題，請聯絡我。",
+      "definition": "v. 接觸;聯繫",
+      "example": "Please contact me if you have any questions.\n如果你有任何問題，請聯繫我。",
       "sound": 1945
     },
     {
@@ -1624,15 +1618,15 @@
     },
     {
       "term": "control",
-      "definition": "v. 控制",
-      "example": "She learned to control her anger.\n她學會控制她的怒火。",
-      "sound": 1947
-    },
-    {
-      "term": "control",
       "definition": "n. 支配;控制;操縱裝置;指揮部",
       "example": "The pilot lost control of the plane.\n飛行員失去了對飛機的控制。",
       "sound": 2468
+    },
+    {
+      "term": "control",
+      "definition": "v. 控制",
+      "example": "She learned to control her anger.\n她學會控制她的怒火。",
+      "sound": 1947
     },
     {
       "term": "controller",
@@ -1660,15 +1654,15 @@
     },
     {
       "term": "copy",
-      "definition": "v. 複製;抄襲",
-      "example": "I need to copy this document before I leave.\n我離開前需要複製這份檔案。",
-      "sound": 1948
+      "definition": "n. 拷貝;副本",
+      "example": "I need a copy of the document.\n我需要這份文件的副本。",
+      "sound": 2472
     },
     {
       "term": "copy",
-      "definition": "n. 複製;副本",
-      "example": "I need a copy of the document.\n我需要這份檔案的副本。",
-      "sound": 2472
+      "definition": "v. 拷貝;抄襲",
+      "example": "I need to copy this document before I leave.\n我離開前需要拷貝這份文件。",
+      "sound": 1948
     },
     {
       "term": "corner",
@@ -1690,15 +1684,15 @@
     },
     {
       "term": "cough",
-      "definition": "v. 咳嗽",
-      "example": "I have a cough.\n我咳嗽了。",
-      "sound": 1949
-    },
-    {
-      "term": "cough",
       "definition": "n. 咳嗽",
       "example": "I have a bad cough.\n我有一個嚴重的咳嗽。",
       "sound": 2475
+    },
+    {
+      "term": "cough",
+      "definition": "v. 咳嗽",
+      "example": "I have a cough.\n我咳嗽了。",
+      "sound": 1949
     },
     {
       "term": "countryside",
@@ -1709,13 +1703,13 @@
     {
       "term": "county",
       "definition": "n. 郡",
-      "example": "The election results were announced by the county.\n選舉結果由郡政府公佈。",
+      "example": "The election results were announced by the county.\n選舉結果由郡政府公布。",
       "sound": 2477
     },
     {
       "term": "couple",
-      "definition": "v. 連線;結合;成婚;交配",
-      "example": "The two wires need to be coupled together.\n這兩條電線需要連線在一起。",
+      "definition": "v. 連接;結合;成婚;交配",
+      "example": "The two wires need to be coupled together.\n這兩條電線需要連接在一起。",
       "sound": 1950
     },
     {
@@ -1732,24 +1726,24 @@
     },
     {
       "term": "court",
+      "definition": "n. 法庭；(網球等的)場地",
+      "example": "The tennis players met on the court.\n網球選手們在場地上碰面。",
+      "sound": 2480
+    },
+    {
+      "term": "court",
       "definition": "v. 向...獻殷勤;追求;引誘;求婚",
       "example": "He courted her with flowers and poems.\n他用鮮花和詩歌向她獻殷勤。",
       "sound": 1951
     },
     {
-      "term": "court",
-      "definition": "n. 法庭；(網球等的)場地",
-      "example": "The tennis players met on the court.\n網球選手們在場地上碰面。",
-      "sound": 2480
-    }
-  ],
-  [
-    {
       "term": "cousin",
       "definition": "n. 表(堂)兄弟姊妹",
       "example": "My cousin and I are the same age.\n我和我的表（堂）兄弟姐妹同歲。",
       "sound": 2481
-    },
+    }
+  ],
+  [
     {
       "term": "crab",
       "definition": "n. 螃蟹",
@@ -1758,15 +1752,15 @@
     },
     {
       "term": "crane",
-      "definition": "n. 起重機,吊車",
-      "example": "The construction workers used a crane to lift the heavy beams.\n建築工人使用起重機來吊起沉重的樑。",
-      "sound": 2483
-    },
-    {
-      "term": "crane",
       "definition": "v. 伸(頸)",
       "example": "The giraffe craned its neck to reach the highest leaves.\n長頸鹿伸長脖子去夠最高的樹葉。",
       "sound": 1952
+    },
+    {
+      "term": "crane",
+      "definition": "n. 起重機,吊車",
+      "example": "The construction workers used a crane to lift the heavy beams.\n建築工人使用起重機來吊起沉重的樑。",
+      "sound": 2483
     },
     {
       "term": "crayon",
@@ -1795,7 +1789,7 @@
     {
       "term": "create",
       "definition": "v. 創造",
-      "example": "She wants to create a new website.\n她想建立一個新的網站。",
+      "example": "She wants to create a new website.\n她想創建一個新的網站。",
       "sound": 1953
     },
     {
@@ -1914,27 +1908,27 @@
     },
     {
       "term": "daily",
-      "definition": "adj. 每日的",
-      "example": "I read the daily newspaper.\n我讀每日的報紙。",
-      "sound": 1701
-    },
-    {
-      "term": "daily",
       "definition": "n. 日報",
       "example": "I read the daily every morning.\n我每天早上都會讀報紙。",
       "sound": 2496
     },
     {
-      "term": "damage",
-      "definition": "n. 損害",
-      "example": "The storm caused extensive damage to the buildings.\n暴風雨對建築物造成了廣泛的損害。",
-      "sound": 2497
+      "term": "daily",
+      "definition": "adj. 每日的",
+      "example": "I read the daily newspaper.\n我讀每日的報紙。",
+      "sound": 1701
     },
     {
       "term": "damage",
       "definition": "v. 損害",
       "example": "The storm damaged the roof.\n暴風雨損壞了屋頂。",
       "sound": 1960
+    },
+    {
+      "term": "damage",
+      "definition": "n. 損害",
+      "example": "The storm caused extensive damage to the buildings.\n暴風雨對建築物造成了廣泛的損害。",
+      "sound": 2497
     },
     {
       "term": "dangerous",
@@ -1944,9 +1938,15 @@
     },
     {
       "term": "data",
-      "definition": "n. 資料,資料",
-      "example": "The company needs to collect data on customer preferences.\n這家公司需要收集關於客戶偏好的資料。",
+      "definition": "n. 資料,數據",
+      "example": "The company needs to collect data on customer preferences.\n這家公司需要收集關於客戶偏好的數據。",
       "sound": 2498
+    },
+    {
+      "term": "dawn",
+      "definition": "n. 黎明",
+      "example": "The birds began to sing at dawn.\n鳥兒們在黎明時開始歌唱。",
+      "sound": 2499
     },
     {
       "term": "dawn",
@@ -1955,30 +1955,24 @@
       "sound": 1961
     },
     {
-      "term": "dawn",
-      "definition": "n. 黎明",
-      "example": "The birds began to sing at dawn.\n鳥兒們在黎明時開始歌唱。",
-      "sound": 2499
-    }
-  ],
-  [
-    {
       "term": "deaf",
       "definition": "adj. 聾的",
       "example": "He is deaf in his left ear.\n他左耳聽不見。",
       "sound": 1703
+    }
+  ],
+  [
+    {
+      "term": "debate",
+      "definition": "n. 辯論",
+      "example": "They had a debate about the new policy.\n他們就新政策進行了一場辯論。",
+      "sound": 2500
     },
     {
       "term": "debate",
       "definition": "v. 辯論",
       "example": "They will debate the new policy tomorrow.\n他們明天將會辯論這項新政策。",
       "sound": 1962
-    },
-    {
-      "term": "debate",
-      "definition": "n. 辯論",
-      "example": "They had a debate about the new policy.\n他們就新政策進行了一場辯論。",
-      "sound": 2500
     },
     {
       "term": "debt",
@@ -2066,15 +2060,15 @@
     },
     {
       "term": "desert",
-      "definition": "v. 遺棄;離棄;逃跑",
-      "example": "The soldier deserted his post during the battle.\n士兵在戰鬥中逃離了他的崗位。",
-      "sound": 1969
-    },
-    {
-      "term": "desert",
       "definition": "n. 沙漠;(常複數)賞罰;(尤指)懲罰",
       "example": "The scorching sun beat down on the vast desert.\n炙熱的太陽照射在廣闊的沙漠上。",
       "sound": 2508
+    },
+    {
+      "term": "desert",
+      "definition": "v. 遺棄;離棄;逃跑",
+      "example": "The soldier deserted his post during the battle.\n士兵在戰鬥中逃離了他的崗位。",
+      "sound": 1969
     },
     {
       "term": "design",
@@ -2139,7 +2133,7 @@
     {
       "term": "dial",
       "definition": "v. 撥(電話號碼)",
-      "example": "Please dial the number before you hang up.\n在結束通話電話前，請撥打這個號碼。",
+      "example": "Please dial the number before you hang up.\n在掛斷電話前，請撥打這個號碼。",
       "sound": 1974
     },
     {
@@ -2177,15 +2171,15 @@
       "definition": "n. 恐龍",
       "example": "Dinosaurs lived millions of years ago.\n恐龍在數百萬年前就存在了。",
       "sound": 2520
-    }
-  ],
-  [
+    },
     {
       "term": "direction",
       "definition": "n. 方向; 指示",
       "example": "Could you give me directions to the museum?\n你能告訴我博物館怎麼走嗎？",
       "sound": 2521
-    },
+    }
+  ],
+  [
     {
       "term": "director",
       "definition": "n. 董事;局長;主任;導演",
@@ -2242,15 +2236,15 @@
     },
     {
       "term": "distance",
-      "definition": "v. 使疏遠",
-      "example": "The argument distanced them from each other.\n那場爭論使他們彼此疏遠。",
-      "sound": 1979
-    },
-    {
-      "term": "distance",
       "definition": "n. 距離",
       "example": "The distance between the two cities is 100 miles.\n這兩個城市之間的距離是 100 英里。",
       "sound": 2526
+    },
+    {
+      "term": "distance",
+      "definition": "v. 使疏遠",
+      "example": "The argument distanced them from each other.\n那場爭論使他們彼此疏遠。",
+      "sound": 1979
     },
     {
       "term": "distant",
@@ -2260,15 +2254,15 @@
     },
     {
       "term": "divide",
-      "definition": "v. 分開;除以",
-      "example": "Please divide the pizza into eight slices.\n請把披薩分成八片。",
-      "sound": 1980
-    },
-    {
-      "term": "divide",
       "definition": "n. 分歧,不和;分水嶺",
       "example": "The cultural divide between the two groups was quite apparent.\n這兩個文化群體之間的分歧非常明顯。",
       "sound": 2527
+    },
+    {
+      "term": "divide",
+      "definition": "v. 分開;除以",
+      "example": "Please divide the pizza into eight slices.\n請把披薩分成八片。",
+      "sound": 1980
     },
     {
       "term": "division",
@@ -2296,27 +2290,27 @@
     },
     {
       "term": "dot",
-      "definition": "v. 點綴; 打點,加點",
-      "example": "She dotted the \"i\" in her signature.\n她在簽名中為「i」加了一點。",
-      "sound": 1981
-    },
-    {
-      "term": "dot",
       "definition": "n. 點;小圓點",
       "example": "There is a small dot on the paper.\n紙上有一個小點。",
       "sound": 2531
     },
     {
-      "term": "double",
-      "definition": "v. 加倍",
-      "example": "I will double my effort on this project.\n我會在這個專案上加倍努力。",
-      "sound": 1982
+      "term": "dot",
+      "definition": "v. 點綴; 打點,加點",
+      "example": "She dotted the \"i\" in her signature.\n她在簽名中為「i」加了一點。",
+      "sound": 1981
     },
     {
       "term": "double",
-      "definition": "n. 兩倍",
-      "example": "The price of the item is double what it was last year.\n這件商品的價格是去年的兩倍。",
-      "sound": 2532
+      "definition": "adj. 雙重的",
+      "example": "She ordered a double scoop of ice cream.\n她點了雙份冰淇淋。",
+      "sound": 1708
+    },
+    {
+      "term": "double",
+      "definition": "v. 加倍",
+      "example": "I will double my effort on this project.\n我會在這個項目上加倍努力。",
+      "sound": 1982
     },
     {
       "term": "double",
@@ -2326,9 +2320,9 @@
     },
     {
       "term": "double",
-      "definition": "adj. 雙重的",
-      "example": "She ordered a double scoop of ice cream.\n她點了雙份冰淇淋。",
-      "sound": 1708
+      "definition": "n. 兩倍",
+      "example": "The price of the item is double what it was last year.\n這件商品的價格是去年的兩倍。",
+      "sound": 2532
     },
     {
       "term": "doubt",
@@ -2350,12 +2344,6 @@
     },
     {
       "term": "downtown",
-      "definition": "adv. 往城市商業區",
-      "example": "Let's go downtown for dinner.\n我們去市中心吃晚餐吧。",
-      "sound": 2279
-    },
-    {
-      "term": "downtown",
       "definition": "adj. 城市商業區的",
       "example": "The downtown area is always bustling with people.\n市中心區域總是人潮洶湧。",
       "sound": 1709
@@ -2367,16 +2355,22 @@
       "sound": 2535
     },
     {
-      "term": "drag",
-      "definition": "v. 拉,拖",
-      "example": "She dragged the heavy suitcase across the floor.\n她把沉重的行李箱拖過地板。",
-      "sound": 1984
+      "term": "downtown",
+      "definition": "adv. 往城市商業區",
+      "example": "Let's go downtown for dinner.\n我們去市中心吃晚餐吧。",
+      "sound": 2279
     },
     {
       "term": "drag",
       "definition": "n. 拖曳",
       "example": "She felt the drag of the heavy suitcase.\n她感覺到沉重手提箱的拖曳力。",
       "sound": 2536
+    },
+    {
+      "term": "drag",
+      "definition": "v. 拉,拖",
+      "example": "She dragged the heavy suitcase across the floor.\n她把沉重的行李箱拖過地板。",
+      "sound": 1984
     },
     {
       "term": "dragon",
@@ -2395,15 +2389,15 @@
       "definition": "n. 戲劇",
       "example": "She loves to watch drama on television.\n她喜歡在電視上看戲劇。",
       "sound": 2539
-    }
-  ],
-  [
+    },
     {
       "term": "drawer",
       "definition": "n. 抽屜",
       "example": "I keep my socks in the top drawer.\n我把襪子放在最上面的抽屜裡。",
       "sound": 2540
-    },
+    }
+  ],
+  [
     {
       "term": "drawing",
       "definition": "n. 描繪,素描;製圖;抽籤;提款",
@@ -2454,15 +2448,15 @@
     },
     {
       "term": "drum",
-      "definition": "n. 鼓",
-      "example": "He plays the drum very well.\n他鼓打得很好。",
-      "sound": 2546
-    },
-    {
-      "term": "drum",
       "definition": "v. 打鼓;咚咚地敲",
       "example": "He drummed his fingers on the table impatiently.\n他焦躁地用手指敲打著桌子。",
       "sound": 1988
+    },
+    {
+      "term": "drum",
+      "definition": "n. 鼓",
+      "example": "He plays the drum very well.\n他鼓打得很好。",
+      "sound": 2546
     },
     {
       "term": "dryer",
@@ -2550,15 +2544,15 @@
     },
     {
       "term": "elder",
-      "definition": "n. 長輩",
-      "example": "I asked my elder for advice.\n我向我的長輩請教意見。",
-      "sound": 2554
-    },
-    {
-      "term": "elder",
       "definition": "adj. 年紀較長的",
       "example": "My elder sister is a doctor.\n我的姐姐是一位醫生。",
       "sound": 1714
+    },
+    {
+      "term": "elder",
+      "definition": "n. 長輩",
+      "example": "I asked my elder for advice.\n我向我的長輩請教意見。",
+      "sound": 2554
     },
     {
       "term": "elect",
@@ -2613,15 +2607,15 @@
       "definition": "n. 敵人",
       "example": "He is my enemy.\n他就是我的敵人。",
       "sound": 2560
-    }
-  ],
-  [
+    },
     {
       "term": "energy",
       "definition": "n. 精力;能量",
       "example": "I have a lot of energy today!\n我今天很有精力！",
       "sound": 2561
-    },
+    }
+  ],
+  [
     {
       "term": "enjoy",
       "definition": "v. 喜歡;享受",
@@ -2697,13 +2691,13 @@
     {
       "term": "excite",
       "definition": "v. 使興奮;使激動",
-      "example": "The news excited her.\n這個訊息讓她很興奮。",
+      "example": "The news excited her.\n這個消息讓她很興奮。",
       "sound": 1995
     },
     {
       "term": "excitement",
       "definition": "n. 刺激;興奮,激動",
-      "example": "The children showed a lot of excitement on Christmas morning.\n孩子們在聖誕節早上表現出非常興奮。",
+      "example": "The children showed a lot of excitement on Christmas morning.\n孩子们在圣诞节早上表现出非常兴奋。",
       "sound": 2569
     },
     {
@@ -2750,15 +2744,15 @@
     },
     {
       "term": "experience",
-      "definition": "v. 經歷;感受",
-      "example": "I experienced a feeling of joy.\n我感受到一股喜悅。",
-      "sound": 2000
-    },
-    {
-      "term": "experience",
       "definition": "n. 經驗",
       "example": "I have a lot of experience in customer service.\n我在客戶服務方面有豐富的經驗。",
       "sound": 2572
+    },
+    {
+      "term": "experience",
+      "definition": "v. 經歷;感受",
+      "example": "I experienced a feeling of joy.\n我感受到一股喜悅。",
+      "sound": 2000
     },
     {
       "term": "expert",
@@ -2804,12 +2798,6 @@
     },
     {
       "term": "extra",
-      "definition": "adj. 額外的",
-      "example": "I need an extra pen.\n我需要一支額外的筆。",
-      "sound": 1722
-    },
-    {
-      "term": "extra",
       "definition": "n. 附加的人物或錢;號外",
       "example": "The newspaper had an extra with the election results.\n這份報紙有一個關於選舉結果的號外。",
       "sound": 2575
@@ -2817,8 +2805,14 @@
     {
       "term": "extra",
       "definition": "adv. 額外地;另外;特別地,非常地",
-      "example": "She put in extra effort to finish the project.\n她額外努力地完成了這個專案。",
+      "example": "She put in extra effort to finish the project.\n她額外努力地完成了這個項目。",
       "sound": 2282
+    },
+    {
+      "term": "extra",
+      "definition": "adj. 額外的",
+      "example": "I need an extra pen.\n我需要一支額外的筆。",
+      "sound": 1722
     },
     {
       "term": "eyebrow",
@@ -2828,18 +2822,18 @@
     },
     {
       "term": "fail",
+      "definition": "n. 不及格",
+      "example": "He got a fail on the test.\n他在考試中不及格。",
+      "sound": 2577
+    },
+    {
+      "term": "fail",
       "definition": "v. 失敗;不及格",
       "example": "He failed the test.\n他考試不及格。",
       "sound": 2003
     }
   ],
   [
-    {
-      "term": "fail",
-      "definition": "n. 不及格",
-      "example": "He got a fail on the test.\n他在考試中不及格。",
-      "sound": 2577
-    },
     {
       "term": "failure",
       "definition": "n. 失敗",
@@ -2854,15 +2848,15 @@
     },
     {
       "term": "fair",
-      "definition": "n. 商品展覽會",
-      "example": "I'm going to the county fair this weekend.\n我這個週末要去參加郡裡的商品展覽會。",
-      "sound": 2579
-    },
-    {
-      "term": "fair",
       "definition": "adj. 公平的;美好的",
       "example": "The weather was fair today.\n今天天氣很好。",
       "sound": 1723
+    },
+    {
+      "term": "fair",
+      "definition": "n. 商品展覽會",
+      "example": "I'm going to the county fair this weekend.\n我這個週末要去參加郡裡的商品展覽會。",
+      "sound": 2579
     },
     {
       "term": "famous",
@@ -2884,15 +2878,15 @@
     },
     {
       "term": "favor",
-      "definition": "v. 支援,擁護;有利於",
-      "example": "The new law favors small businesses.\n這項新法律有利於小型企業。",
-      "sound": 2005
-    },
-    {
-      "term": "favor",
       "definition": "n. 偏愛;偏袒",
       "example": "The teacher showed no favor towards any student.\n老師沒有偏袒任何一位學生。",
       "sound": 2581
+    },
+    {
+      "term": "favor",
+      "definition": "v. 支持,擁護;有利於",
+      "example": "The new law favors small businesses.\n這項新法律有利於小型企業。",
+      "sound": 2005
     },
     {
       "term": "favorite",
@@ -2920,21 +2914,21 @@
     },
     {
       "term": "fellow",
-      "definition": "n. 夥伴;同事",
+      "definition": "n. 伙伴;同事",
       "example": "He is a good fellow.\n他是一位好夥伴。",
       "sound": 2584
-    },
-    {
-      "term": "female",
-      "definition": "n. 雌性動物",
-      "example": "The female lioness protects her cubs.\n母獅保護牠的小獅子。",
-      "sound": 2585
     },
     {
       "term": "female",
       "definition": "adj. 女性的",
       "example": "She is a female doctor.\n她是一位女醫生。",
       "sound": 1727
+    },
+    {
+      "term": "female",
+      "definition": "n. 雌性動物",
+      "example": "The female lioness protects her cubs.\n母獅保護牠的小獅子。",
+      "sound": 2585
     },
     {
       "term": "fence",
@@ -2963,7 +2957,7 @@
     {
       "term": "field",
       "definition": "n. 原野;田賽場地;野外",
-      "example": "The children played in the field.\n孩子們在原野裡玩耍。",
+      "example": "The children played in the field.\n孩子们在原野里玩耍。",
       "sound": 2589
     },
     {
@@ -2974,15 +2968,15 @@
     },
     {
       "term": "figure",
-      "definition": "n. 外形;數字;圖表;(溜冰等)花式",
-      "example": "The pie has a perfect figure.\n這個派有完美的外形。",
-      "sound": 2591
-    },
-    {
-      "term": "figure",
       "definition": "v. 估計;描繪",
       "example": "I need to figure out how much the trip will cost.\n我需要估算出這次旅行的費用。",
       "sound": 2007
+    },
+    {
+      "term": "figure",
+      "definition": "n. 外形;數字;圖表;(溜冰等)花式",
+      "example": "The pie has a perfect figure.\n這個派有完美的外形。",
+      "sound": 2591
     },
     {
       "term": "film",
@@ -3010,6 +3004,12 @@
     },
     {
       "term": "firm",
+      "definition": "adj. 牢固的",
+      "example": "The ground was firm under my feet.\n地面在我的腳下很穩固。",
+      "sound": 1728
+    },
+    {
+      "term": "firm",
       "definition": "adv. 穩固地;牢固地",
       "example": "She held the rope firm.\n她牢牢地抓住繩子。",
       "sound": 2284
@@ -3021,22 +3021,10 @@
       "sound": 2009
     },
     {
-      "term": "firm",
-      "definition": "adj. 牢固的",
-      "example": "The ground was firm under my feet.\n地面在我的腳下很穩固。",
-      "sound": 1728
-    },
-    {
       "term": "fisherman",
       "definition": "n. 漁夫",
       "example": "The fisherman cast his net into the sea.\n漁夫把他的網撒入海裡。",
       "sound": 2595
-    },
-    {
-      "term": "fit",
-      "definition": "v. 合身;適合",
-      "example": "The dress fits her perfectly.\n這件洋裝她穿起來非常合身。",
-      "sound": 2010
     },
     {
       "term": "fit",
@@ -3046,9 +3034,21 @@
     },
     {
       "term": "fit",
+      "definition": "v. 合身;適合",
+      "example": "The dress fits her perfectly.\n這件洋裝她穿起來非常合身。",
+      "sound": 2010
+    },
+    {
+      "term": "fit",
       "definition": "adj. 適合的;恰當的;相稱的;能勝任的",
       "example": "This jacket is a perfect fit.\n這件夾克非常合身。",
       "sound": 1729
+    },
+    {
+      "term": "fix",
+      "definition": "v. 修理",
+      "example": "I need to fix my car.\n我需要修理我的車。",
+      "sound": 2011
     }
   ],
   [
@@ -3057,12 +3057,6 @@
       "definition": "n. 困境;窘境;賄賂;定位",
       "example": "The detective was able to expose the fix in the rigged election.\n偵探揭露了舞弊選舉中的賄賂。",
       "sound": 2597
-    },
-    {
-      "term": "fix",
-      "definition": "v. 修理",
-      "example": "I need to fix my car.\n我需要修理我的車。",
-      "sound": 2011
     },
     {
       "term": "flag",
@@ -3078,15 +3072,15 @@
     },
     {
       "term": "flash",
-      "definition": "n. 閃光,閃爍",
-      "example": "A flash of lightning lit up the sky.\n一道閃電照亮了天空。",
-      "sound": 2599
-    },
-    {
-      "term": "flash",
       "definition": "v. 使閃光;使閃爍",
       "example": "The lightning flashed across the sky.\n閃電劃過天空。",
       "sound": 2013
+    },
+    {
+      "term": "flash",
+      "definition": "n. 閃光,閃爍",
+      "example": "A flash of lightning lit up the sky.\n一道閃電照亮了天空。",
+      "sound": 2599
     },
     {
       "term": "flashlight",
@@ -3096,15 +3090,9 @@
     },
     {
       "term": "flat",
-      "definition": "adj. 平的",
-      "example": "The table is flat.\n桌子是平的。",
-      "sound": 1730
-    },
-    {
-      "term": "flat",
-      "definition": "n. 平坦部分",
-      "example": "The road had a flat.\n這條路有一個爆胎。",
-      "sound": 2601
+      "definition": "adv. 平直地,仰臥地;恰恰,正好;斷然地",
+      "example": "The car tire went flat.\n汽車的輪胎癟了。",
+      "sound": 2285
     },
     {
       "term": "flat",
@@ -3114,9 +3102,15 @@
     },
     {
       "term": "flat",
-      "definition": "adv. 平直地,仰臥地;恰恰,正好;斷然地",
-      "example": "The car tire went flat.\n汽車的輪胎癟了。",
-      "sound": 2285
+      "definition": "n. 平坦部分",
+      "example": "The road had a flat.\n這條路有一個爆胎。",
+      "sound": 2601
+    },
+    {
+      "term": "flat",
+      "definition": "adj. 平的",
+      "example": "The table is flat.\n桌子是平的。",
+      "sound": 1730
     },
     {
       "term": "flight",
@@ -3126,15 +3120,15 @@
     },
     {
       "term": "flood",
-      "definition": "n. 洪水,水災",
-      "example": "The flood destroyed many homes.\n洪水摧毀了許多房屋。",
-      "sound": 2603
-    },
-    {
-      "term": "flood",
       "definition": "v. 淹沒;使泛濫",
       "example": "The heavy rain caused the river to flood the town.\n大雨導致河流淹沒了城鎮。",
       "sound": 2015
+    },
+    {
+      "term": "flood",
+      "definition": "n. 洪水,水災",
+      "example": "The flood destroyed many homes.\n洪水摧毀了許多房屋。",
+      "sound": 2603
     },
     {
       "term": "flour",
@@ -3180,15 +3174,15 @@
     },
     {
       "term": "focus",
-      "definition": "n. 焦點",
-      "example": "The focus of the meeting was the new marketing campaign.\n這次會議的重點是新的行銷活動。",
-      "sound": 2608
-    },
-    {
-      "term": "focus",
       "definition": "v. 集中",
       "example": "I need to focus on my work.\n我需要專注於我的工作。",
       "sound": 2019
+    },
+    {
+      "term": "focus",
+      "definition": "n. 焦點",
+      "example": "The focus of the meeting was the new marketing campaign.\n這次會議的重點是新的行銷活動。",
+      "sound": 2608
     },
     {
       "term": "foggy",
@@ -3217,7 +3211,7 @@
     {
       "term": "fool",
       "definition": "n. 呆子",
-      "example": "He felt like a fool for believing her lies.\n他相信了她的謊言，覺得自己像個傻瓜。",
+      "example": "He felt like a fool for believing her lies.\n他相信了她的謊言，觉得自己像个傻瓜。",
       "sound": 2610
     },
     {
@@ -3267,15 +3261,15 @@
       "definition": "adj. 正式的",
       "example": "Please wear formal attire to the event.\n請在活動中穿著正式服裝。",
       "sound": 1734
-    }
-  ],
-  [
+    },
     {
       "term": "former",
       "definition": "adj. 前者",
       "example": "The former student now works as a teacher.\n那位前學生現在是一名老師。",
       "sound": 1735
-    },
+    }
+  ],
+  [
     {
       "term": "forward",
       "definition": "adj. 前面的",
@@ -3284,15 +3278,15 @@
     },
     {
       "term": "forward",
-      "definition": "n. 前鋒",
-      "example": "nan\nnan",
-      "sound": 2614
-    },
-    {
-      "term": "forward",
       "definition": "adv. 向前地",
       "example": "He leaned forward to hear her.\n他向前傾聽她的話。",
       "sound": 2286
+    },
+    {
+      "term": "forward",
+      "definition": "n. 前鋒",
+      "example": "nan\nnan",
+      "sound": 2614
     },
     {
       "term": "forward",
@@ -3356,21 +3350,15 @@
     },
     {
       "term": "function",
-      "definition": "v. 起作用",
-      "example": "The new medicine functions quickly to relieve pain.\n這種新藥起作用很快，可以緩解疼痛。",
-      "sound": 2025
-    },
-    {
-      "term": "function",
-      "definition": "n. 功能,作用;函式",
+      "definition": "n. 功能,作用;函數",
       "example": "The primary function of a heart is to pump blood.\n心臟的主要功能是泵血。",
       "sound": 2620
     },
     {
-      "term": "further",
-      "definition": "adj. 較遠的;另外的",
-      "example": "For further information, please visit our website.\n欲知更多資訊，請瀏覽我們的網站。",
-      "sound": 1739
+      "term": "function",
+      "definition": "v. 起作用",
+      "example": "The new medicine functions quickly to relieve pain.\n這種新藥起作用很快，可以緩解疼痛。",
+      "sound": 2025
     },
     {
       "term": "further",
@@ -3383,6 +3371,12 @@
       "definition": "v. 更遠地;進一步地;促進;助長",
       "example": "To further his career, he decided to get a master's degree.\n為了促進他的事業，他決定攻讀碩士學位。",
       "sound": 2026
+    },
+    {
+      "term": "further",
+      "definition": "adj. 較遠的;另外的",
+      "example": "For further information, please visit our website.\n欲知更多資訊，請瀏覽我們的網站。",
+      "sound": 1739
     },
     {
       "term": "future",
@@ -3398,15 +3392,15 @@
     },
     {
       "term": "gain",
-      "definition": "n. 獲得;增加;獲利;收益",
-      "example": "She gained a lot of experience working on that project.\n她在那個專案上獲得了很多經驗。",
-      "sound": 2622
-    },
-    {
-      "term": "gain",
       "definition": "v. 得到;增進",
       "example": "I gained a lot of knowledge from reading that book.\n我從閱讀那本書中獲得了很多知識。",
       "sound": 2027
+    },
+    {
+      "term": "gain",
+      "definition": "n. 獲得;增加;獲利;收益",
+      "example": "She gained a lot of experience working on that project.\n她在那個項目上獲得了很多經驗。",
+      "sound": 2622
     },
     {
       "term": "garage",
@@ -3459,7 +3453,7 @@
     {
       "term": "gentle",
       "definition": "adj. 溫柔的",
-      "example": "She has a gentle touch.\n她有溫柔的觸控。",
+      "example": "She has a gentle touch.\n她有溫柔的觸摸。",
       "sound": 1742
     },
     {
@@ -3485,15 +3479,15 @@
       "definition": "n. 巨人",
       "example": "The giant lived in a tall castle.\n巨人住在高大的城堡裡。",
       "sound": 2630
-    }
-  ],
-  [
+    },
     {
       "term": "giraffe",
       "definition": "n. 長頸鹿",
       "example": "The giraffe is a tall animal with a long neck.\n長頸鹿是一種擁有長脖子的高大動物。",
       "sound": 2631
-    },
+    }
+  ],
+  [
     {
       "term": "glove",
       "definition": "n. 手套",
@@ -3532,15 +3526,15 @@
     },
     {
       "term": "golf",
-      "definition": "v. 打高爾夫球",
-      "example": "I love to golf on the weekends.\n我喜歡在週末打高爾夫球。",
-      "sound": 2031
-    },
-    {
-      "term": "golf",
       "definition": "n. 高爾夫球",
       "example": "I enjoy playing golf on weekends.\n我喜歡在週末打高爾夫球。",
       "sound": 2636
+    },
+    {
+      "term": "golf",
+      "definition": "v. 打高爾夫球",
+      "example": "I love to golf on the weekends.\n我喜歡在週末打高爾夫球。",
+      "sound": 2031
     },
     {
       "term": "govern",
@@ -3551,7 +3545,7 @@
     {
       "term": "government",
       "definition": "n. 政府",
-      "example": "The government announced new economic policies.\n政府宣佈了新的經濟政策。",
+      "example": "The government announced new economic policies.\n政府宣布了新的經濟政策。",
       "sound": 2637
     },
     {
@@ -3703,19 +3697,19 @@
       "definition": "adj. 可恨的;充滿憎恨的",
       "example": "His hateful words hurt her feelings.\n他充滿仇恨的話語傷害了她的感情。",
       "sound": 1748
-    }
-  ],
-  [
+    },
     {
       "term": "healthy",
       "definition": "adj. 健康的",
       "example": "Eating fruits and vegetables is a healthy habit.\n吃水果和蔬菜是一個健康的習慣。",
       "sound": 1749
-    },
+    }
+  ],
+  [
     {
       "term": "heater",
       "definition": "n. 暖氣機",
-      "example": "The room was cold, so I turned on the heater.\n房間很冷，所以我開啟了暖氣機。",
+      "example": "The room was cold, so I turned on the heater.\n房間很冷，所以我打開了暖氣機。",
       "sound": 2652
     },
     {
@@ -3780,14 +3774,14 @@
     },
     {
       "term": "hire",
-      "definition": "n. 租用,僱用",
-      "example": "They decided to hire a car for their trip.\n他們決定租一臺車去旅行。",
+      "definition": "n. 租用,雇用",
+      "example": "They decided to hire a car for their trip.\n他們決定租一台車去旅行。",
       "sound": 2661
     },
     {
       "term": "hire",
-      "definition": "v. 僱用",
-      "example": "The company decided to hire a new marketing manager.\n這家公司決定僱用一位新的行銷經理。",
+      "definition": "v. 雇用",
+      "example": "The company decided to hire a new marketing manager.\n這家公司決定雇用一位新的行銷經理。",
       "sound": 2040
     },
     {
@@ -3798,7 +3792,7 @@
     },
     {
       "term": "holder",
-      "definition": "n. 持有者;支託物",
+      "definition": "n. 持有者;支托物",
       "example": "The phone holder keeps my phone secure in the car.\n手機支架在車裡固定我的手機。",
       "sound": 2663
     },
@@ -3864,15 +3858,15 @@
     },
     {
       "term": "hum",
-      "definition": "v. 哼曲子",
-      "example": "She hummed a little tune while she worked.\n她工作時哼著一首小曲。",
-      "sound": 2042
-    },
-    {
-      "term": "hum",
       "definition": "n. 嗡嗡聲",
       "example": "I heard a low hum coming from the refrigerator.\n我聽到冰箱發出低沉的嗡嗡聲。",
       "sound": 2670
+    },
+    {
+      "term": "hum",
+      "definition": "v. 哼曲子",
+      "example": "She hummed a little tune while she worked.\n她工作時哼著一首小曲。",
+      "sound": 2042
     },
     {
       "term": "humble",
@@ -3921,6 +3915,12 @@
       "definition": "n. 獵人",
       "example": "The hunter tracked the deer through the forest.\n獵人在森林裡追蹤那隻鹿。",
       "sound": 2674
+    },
+    {
+      "term": "hurry",
+      "definition": "v. 趕快",
+      "example": "I need to hurry, or I'll be late.\n我需要趕快，否則我就要遲到了。",
+      "sound": 2045
     }
   ],
   [
@@ -3929,12 +3929,6 @@
       "definition": "n. 匆忙",
       "example": "I'm in a hurry to get to work.\n我趕著去上班。",
       "sound": 2675
-    },
-    {
-      "term": "hurry",
-      "definition": "v. 趕快",
-      "example": "I need to hurry, or I'll be late.\n我需要趕快，否則我就要遲到了。",
-      "sound": 2045
     },
     {
       "term": "icebox",
@@ -3950,15 +3944,15 @@
     },
     {
       "term": "ill",
-      "definition": "adv. 惡劣地;困難地;不利地",
-      "example": "The project was ill-fated from the start.\n這個專案從一開始就命運多舛。",
-      "sound": 2291
-    },
-    {
-      "term": "ill",
       "definition": "n. 不幸;禍害",
       "example": "The illness of the economy affected many people.\n經濟的困境影響了許多人。",
       "sound": 2677
+    },
+    {
+      "term": "ill",
+      "definition": "adv. 惡劣地;困難地;不利地",
+      "example": "The project was ill-fated from the start.\n這個專案從一開始就命運多舛。",
+      "sound": 2291
     },
     {
       "term": "ill",
@@ -4004,15 +3998,15 @@
     },
     {
       "term": "increase",
-      "definition": "v. 增加",
-      "example": "The price of gasoline will likely increase next week.\n汽油價格下週可能會上漲。",
-      "sound": 2050
-    },
-    {
-      "term": "increase",
       "definition": "n. 增加;增強",
       "example": "The company saw an increase in profits this quarter.\n這家公司本季度的利潤有所增加。",
       "sound": 2681
+    },
+    {
+      "term": "increase",
+      "definition": "v. 增加",
+      "example": "The price of gasoline will likely increase next week.\n汽油價格下週可能會上漲。",
+      "sound": 2050
     },
     {
       "term": "increasingly",
@@ -4023,7 +4017,7 @@
     {
       "term": "independence",
       "definition": "n. 獨立;自主;自立",
-      "example": "The country declared its independence from the ruling empire.\n這個國家宣佈脫離統治帝國而獨立。",
+      "example": "The country declared its independence from the ruling empire.\n這個國家宣布脫離統治帝國而獨立。",
       "sound": 2682
     },
     {
@@ -4058,15 +4052,15 @@
     },
     {
       "term": "ink",
-      "definition": "v. 用墨水寫;簽署;簽訂(合同等)",
-      "example": "He inked the contract with his new employer.\n他與新僱主簽訂了合同。",
-      "sound": 2053
-    },
-    {
-      "term": "ink",
       "definition": "n. 墨水",
       "example": "I spilled ink on my shirt.\n我把墨水灑在襯衫上了。",
       "sound": 2685
+    },
+    {
+      "term": "ink",
+      "definition": "v. 用墨水寫;簽署;簽訂(合同等)",
+      "example": "He inked the contract with his new employer.\n他與新雇主簽訂了合同。",
+      "sound": 2053
     },
     {
       "term": "insect",
@@ -4137,17 +4131,17 @@
     {
       "term": "invent",
       "definition": "v. 發明",
-      "example": "Thomas Edison invented the light bulb.\n湯瑪斯·愛迪生發明瞭電燈泡。",
+      "example": "Thomas Edison invented the light bulb.\n湯瑪斯·愛迪生發明了電燈泡。",
       "sound": 2058
-    }
-  ],
-  [
+    },
     {
       "term": "invitation",
       "definition": "n. 邀請",
       "example": "I received an invitation to the party.\n我收到了一張派對邀請。",
       "sound": 2691
-    },
+    }
+  ],
+  [
     {
       "term": "invite",
       "definition": "v. 邀請",
@@ -4162,7 +4156,7 @@
     },
     {
       "term": "item",
-      "definition": "n. 專案;品目",
+      "definition": "n. 項目;品目",
       "example": "Please add one more item to the list.\n請再加一項到清單裡。",
       "sound": 2693
     },
@@ -4186,15 +4180,15 @@
     },
     {
       "term": "jazz",
-      "definition": "n. 爵士樂",
-      "example": "I love listening to jazz music.\n我喜歡聽爵士樂。",
-      "sound": 2696
-    },
-    {
-      "term": "jazz",
       "definition": "v. 使活潑;奏爵士樂;遊蕩",
       "example": "The band jazzed up the old song with a new arrangement.\n樂隊用新的編曲讓這首老歌變得活潑。",
       "sound": 2061
+    },
+    {
+      "term": "jazz",
+      "definition": "n. 爵士樂",
+      "example": "I love listening to jazz music.\n我喜歡聽爵士樂。",
+      "sound": 2696
     },
     {
       "term": "jeans",
@@ -4210,19 +4204,19 @@
     },
     {
       "term": "jog",
-      "definition": "v. 慢跑",
-      "example": "I jog every morning.\n我每天早上慢跑。",
-      "sound": 2062
-    },
-    {
-      "term": "jog",
       "definition": "n. 輕推;輕撞;慢跑;緩行;暗示",
       "example": "He gave her a gentle jog to get her attention.\n他輕輕地碰了一下她，引起她的注意。",
       "sound": 2699
     },
     {
+      "term": "jog",
+      "definition": "v. 慢跑",
+      "example": "I jog every morning.\n我每天早上慢跑。",
+      "sound": 2062
+    },
+    {
       "term": "joint",
-      "definition": "v. 連線,接合",
+      "definition": "v. 連接,接合",
       "example": "The carpenter will joint the two pieces of wood together.\n木匠會把這兩塊木頭接合在一起。",
       "sound": 2063
     },
@@ -4234,7 +4228,7 @@
     },
     {
       "term": "joint",
-      "definition": "adj. 接頭;連線",
+      "definition": "adj. 接頭;連接",
       "example": "The carpenter used glue to reinforce the joint between the two pieces of wood.\n木匠用膠水加固了兩塊木頭的接合處。",
       "sound": 1759
     },
@@ -4337,7 +4331,7 @@
     {
       "term": "lantern",
       "definition": "n. 燈籠",
-      "example": "The children carried lanterns to light their way through the dark forest.\n孩子們拿著燈籠照亮他們在黑暗森林裡的路。",
+      "example": "The children carried lanterns to light their way through the dark forest.\n孩子们拿着灯笼照亮他们在黑暗森林里的路。",
       "sound": 2714
     },
     {
@@ -4349,7 +4343,7 @@
     {
       "term": "latest",
       "definition": "adj. 最新的;最近的;最遲的",
-      "example": "This is the latest news.\n這是最新的訊息。",
+      "example": "This is the latest news.\n這是最新的消息。",
       "sound": 1761
     },
     {
@@ -4357,15 +4351,15 @@
       "definition": "n. 律師",
       "example": "The lawyer represented the defendant in court.\n這位律師在法庭上為被告辯護。",
       "sound": 2716
-    }
-  ],
-  [
+    },
     {
       "term": "leadership",
       "definition": "n. 領導才能",
       "example": "She demonstrated strong leadership during the project.\n她在專案中展現了強大的領導才能。",
       "sound": 2717
-    },
+    }
+  ],
+  [
     {
       "term": "legal",
       "definition": "adj. 合法的",
@@ -4416,15 +4410,15 @@
     },
     {
       "term": "lick",
-      "definition": "n. 舔,舐;少量",
-      "example": "The cat gave the milk a quick lick.\n貓快速地舔了牛奶一口。",
-      "sound": 2724
-    },
-    {
-      "term": "lick",
       "definition": "v. 舔",
       "example": "The dog will lick the ice cream.\n那隻狗會舔冰淇淋。",
       "sound": 2067
+    },
+    {
+      "term": "lick",
+      "definition": "n. 舔,舐;少量",
+      "example": "The cat gave the milk a quick lick.\n貓快速地舔了牛奶一口。",
+      "sound": 2724
     },
     {
       "term": "lid",
@@ -4440,27 +4434,27 @@
     },
     {
       "term": "limit",
-      "definition": "n. 限度",
-      "example": "The speed limit on this road is 50 mph.\n這條路的限速是每小時 50 英里。",
-      "sound": 2727
-    },
-    {
-      "term": "limit",
       "definition": "v. 限定",
       "example": "The teacher limited the time for the test to one hour.\n老師將考試時間限定為一小時。",
       "sound": 2068
     },
     {
-      "term": "link",
-      "definition": "v. 聯絡",
-      "example": "Please link the two documents.\n請連結這兩份檔案。",
-      "sound": 2069
+      "term": "limit",
+      "definition": "n. 限度",
+      "example": "The speed limit on this road is 50 mph.\n這條路的限速是每小時 50 英里。",
+      "sound": 2727
     },
     {
       "term": "link",
       "definition": "n. 環節",
       "example": "The broken link in the chain needs to be repaired.\n鏈條上斷裂的環節需要修復。",
       "sound": 2728
+    },
+    {
+      "term": "link",
+      "definition": "v. 聯繫",
+      "example": "Please link the two documents.\n請連結這兩份文件。",
+      "sound": 2069
     },
     {
       "term": "liquid",
@@ -4494,7 +4488,7 @@
     },
     {
       "term": "locate",
-      "definition": "v. 把...設定在;使...座落於",
+      "definition": "v. 把...設置在;使...座落於",
       "example": "The map helps us locate the restaurant.\n這張地圖幫助我們找到那家餐廳的位置。",
       "sound": 2070
     },
@@ -4507,7 +4501,7 @@
     {
       "term": "lock",
       "definition": "n. 鎖",
-      "example": "I need a key to open the lock.\n我需要一把鑰匙來開啟鎖。",
+      "example": "I need a key to open the lock.\n我需要一把鑰匙來打開鎖。",
       "sound": 2733
     },
     {
@@ -4575,26 +4569,26 @@
       "definition": "n. 好運;幸運",
       "example": "She had a stroke of luck and won the lottery.\n她走了好運，中了彩票。",
       "sound": 2738
-    }
-  ],
-  [
+    },
     {
       "term": "magazine",
       "definition": "n. 雜誌",
       "example": "I read a magazine on the train this morning.\n今天早上我在火車上看了一本雜誌。",
       "sound": 2739
+    }
+  ],
+  [
+    {
+      "term": "magic",
+      "definition": "adj. 不可思議的;有魔力的",
+      "example": "The magician performed a magic trick.\n魔術師表演了一個魔術。",
+      "sound": 1767
     },
     {
       "term": "magic",
       "definition": "n. 魔術",
       "example": "The magician performed a magic trick.\n這位魔術師表演了一個魔術。",
       "sound": 2740
-    },
-    {
-      "term": "magic",
-      "definition": "adj. 不可思議的;有魔力的",
-      "example": "The magician performed a magic trick.\n魔術師表演了一個魔術。",
-      "sound": 1767
     },
     {
       "term": "magician",
@@ -4604,15 +4598,15 @@
     },
     {
       "term": "main",
-      "definition": "n. 總管道;主要部分;要點",
-      "example": "The main water pipe burst.\n總水管爆裂了。",
-      "sound": 2742
-    },
-    {
-      "term": "main",
       "definition": "adj. 最主要的",
       "example": "The main reason for the meeting was to discuss the budget.\n會議的主要原因是討論預算。",
       "sound": 1768
+    },
+    {
+      "term": "main",
+      "definition": "n. 總管道;主要部分;要點",
+      "example": "The main water pipe burst.\n總水管爆裂了。",
+      "sound": 2742
     },
     {
       "term": "maintain",
@@ -4622,15 +4616,21 @@
     },
     {
       "term": "male",
+      "definition": "adj. 男性的",
+      "example": "The doctor examined the male patient.\n醫生檢查了男性病人。",
+      "sound": 1769
+    },
+    {
+      "term": "male",
       "definition": "n. 雄性動物",
       "example": "The male lion has a prominent mane.\n雄獅有著顯眼鬃毛。",
       "sound": 2743
     },
     {
-      "term": "male",
-      "definition": "adj. 男性的",
-      "example": "The doctor examined the male patient.\n醫生檢查了男性病人。",
-      "sound": 1769
+      "term": "Mandarin",
+      "definition": "n. 中國的官話(北京話)",
+      "example": "She is learning Mandarin.\n她正在學習中文(普通話)。",
+      "sound": 2744
     },
     {
       "term": "mango",
@@ -4646,15 +4646,15 @@
     },
     {
       "term": "mark",
-      "definition": "n. 記號",
-      "example": "She made a mark on the paper with a pen.\n她用筆在紙上做了一個記號。",
-      "sound": 2747
-    },
-    {
-      "term": "mark",
       "definition": "v. 做記號",
       "example": "Please mark the correct answer on the test.\n請在考卷上標記正確的答案。",
       "sound": 2076
+    },
+    {
+      "term": "mark",
+      "definition": "n. 記號",
+      "example": "She made a mark on the paper with a pen.\n她用筆在紙上做了一個記號。",
+      "sound": 2747
     },
     {
       "term": "marriage",
@@ -4664,15 +4664,15 @@
     },
     {
       "term": "mask",
-      "definition": "n. 面具",
-      "example": "He wore a mask to the party.\n他戴著面具去參加派對。",
-      "sound": 2749
-    },
-    {
-      "term": "mask",
       "definition": "v. 在(臉上)戴面具;掩飾",
       "example": "She masked her disappointment with a smile.\n她用微笑掩飾了她的失望。",
       "sound": 2077
+    },
+    {
+      "term": "mask",
+      "definition": "n. 面具",
+      "example": "He wore a mask to the party.\n他戴著面具去參加派對。",
+      "sound": 2749
     },
     {
       "term": "mass",
@@ -4688,27 +4688,27 @@
     },
     {
       "term": "match",
-      "definition": "v. 相配",
-      "example": "The shirt matches the pants perfectly.\n這件襯衫和褲子非常相配。",
-      "sound": 2078
-    },
-    {
-      "term": "match",
       "definition": "n. 比賽,競賽;對手;相配者;火柴",
       "example": "The soccer match was very exciting.\n這場足球比賽非常刺激。",
       "sound": 2752
     },
     {
-      "term": "mate",
-      "definition": "n. 同伴,夥伴",
-      "example": "He is a good mate.\n他是個好夥伴。",
-      "sound": 2753
+      "term": "match",
+      "definition": "v. 相配",
+      "example": "The shirt matches the pants perfectly.\n這件襯衫和褲子非常相配。",
+      "sound": 2078
     },
     {
       "term": "mate",
       "definition": "v. 使交配",
       "example": "The lion and lioness mated.\n獅子和母獅交配了。",
       "sound": 2079
+    },
+    {
+      "term": "mate",
+      "definition": "n. 同伴,伙伴",
+      "example": "He is a good mate.\n他是個好夥伴。",
+      "sound": 2753
     },
     {
       "term": "meal",
@@ -4784,14 +4784,14 @@
     },
     {
       "term": "menu",
-      "definition": "n. 選單",
-      "example": "I need to see the menu to order food.\n我需要看選單才能點餐。",
+      "definition": "n. 菜單",
+      "example": "I need to see the menu to order food.\n我需要看菜單才能點餐。",
       "sound": 2764
     },
     {
       "term": "message",
-      "definition": "n. 訊息;音信",
-      "example": "I received a message from my friend.\n我收到朋友的一則訊息。",
+      "definition": "n. 消息;音信",
+      "example": "I received a message from my friend.\n我收到朋友的一則消息。",
       "sound": 2765
     }
   ],
@@ -4840,21 +4840,15 @@
     },
     {
       "term": "mine",
-      "definition": "v. 開礦;佈雷;破壞",
-      "example": "The company decided to mine for gold in the mountains.\n這家公司決定在山裡開採黃金。",
-      "sound": 2081
-    },
-    {
-      "term": "mine",
       "definition": "n. 我的東西;礦;源泉;地雷;坑道",
       "example": "That book is mine.\n那本書是我的。",
       "sound": 2772
     },
     {
-      "term": "minus",
-      "definition": "prep. 減（去）",
-      "example": "Five minus two equals three.\n五減二等於三。",
-      "sound": 2313
+      "term": "mine",
+      "definition": "v. 開礦;佈雷;破壞",
+      "example": "The company decided to mine for gold in the mountains.\n這家公司決定在山裡開採黃金。",
+      "sound": 2081
     },
     {
       "term": "minus",
@@ -4867,6 +4861,12 @@
       "definition": "adj. 負的,減去的",
       "example": "The temperature is minus five degrees Celsius.\n溫度是零下五攝氏度。",
       "sound": 1772
+    },
+    {
+      "term": "minus",
+      "definition": "prep. 減（去）",
+      "example": "Five minus two equals three.\n五減二等於三。",
+      "sound": 2313
     },
     {
       "term": "mirror",
@@ -4882,27 +4882,27 @@
     },
     {
       "term": "mix",
-      "definition": "v. 混合",
-      "example": "Please mix the flour and sugar together.\n請把麵粉和糖混合在一起。",
-      "sound": 2083
-    },
-    {
-      "term": "mix",
       "definition": "n. 混和,攪和;結合",
       "example": "Please mix the flour and water.\n請把麵粉和水混合。",
       "sound": 2775
     },
     {
-      "term": "model",
-      "definition": "n. 模型;模特兒",
-      "example": "She is a professional model.\n她是一位專業的模特兒。",
-      "sound": 2776
+      "term": "mix",
+      "definition": "v. 混合",
+      "example": "Please mix the flour and sugar together.\n請把麵粉和糖混合在一起。",
+      "sound": 2083
     },
     {
       "term": "model",
       "definition": "v. 塑像;當模特兒",
       "example": "She will model for a fashion magazine.\n她將為時尚雜誌擔任模特兒。",
       "sound": 2084
+    },
+    {
+      "term": "model",
+      "definition": "n. 模型;模特兒",
+      "example": "She is a professional model.\n她是一位專業的模特兒。",
+      "sound": 2776
     },
     {
       "term": "modern",
@@ -4978,15 +4978,15 @@
     },
     {
       "term": "nail",
-      "definition": "v. 將...釘牢;捕獲;揭露;擊,打",
-      "example": "The detective finally nailed the suspect with the evidence.\n偵探最終憑藉證據抓獲了嫌疑人。",
-      "sound": 2087
-    },
-    {
-      "term": "nail",
       "definition": "n. 釘子;指甲",
       "example": "I hammered the nail into the wall.\n我把釘子敲進了牆裡。",
       "sound": 2785
+    },
+    {
+      "term": "nail",
+      "definition": "v. 將...釘牢;捕獲;揭露;擊,打",
+      "example": "The detective finally nailed the suspect with the evidence.\n偵探最終憑藉證據抓獲了嫌疑人。",
+      "sound": 2087
     },
     {
       "term": "naked",
@@ -5002,15 +5002,15 @@
     },
     {
       "term": "narrow",
-      "definition": "v. 變窄;收縮;減少",
-      "example": "The road narrowed after the bridge.\n這條路在橋後變窄了。",
-      "sound": 2088
-    },
-    {
-      "term": "narrow",
       "definition": "adj. 窄的",
       "example": "The path through the forest was narrow.\n穿過森林的小路很窄。",
       "sound": 1776
+    },
+    {
+      "term": "narrow",
+      "definition": "v. 變窄;收縮;減少",
+      "example": "The road narrowed after the bridge.\n這條路在橋後變窄了。",
+      "sound": 2088
     }
   ],
   [
@@ -5034,15 +5034,15 @@
     },
     {
       "term": "nearby",
-      "definition": "adv. 在附近",
-      "example": "The park is nearby.\n公園就在附近。",
-      "sound": 2293
-    },
-    {
-      "term": "nearby",
       "definition": "adj. 附近的",
       "example": "The park is nearby.\n公園就在附近。",
       "sound": 1780
+    },
+    {
+      "term": "nearby",
+      "definition": "adv. 在附近",
+      "example": "The park is nearby.\n公園就在附近。",
+      "sound": 2293
     },
     {
       "term": "nearly",
@@ -5082,21 +5082,15 @@
     },
     {
       "term": "negative",
-      "definition": "adj. 否定的;負面的",
-      "example": "The test result was negative.\n檢測結果呈陰性。",
-      "sound": 1783
-    },
-    {
-      "term": "negative",
       "definition": "n. 否定語;負數;陰電;底片",
       "example": "The photograph's negative was damaged.\n照片的底片損壞了。",
       "sound": 2789
     },
     {
-      "term": "neighbor",
-      "definition": "n. 鄰居",
-      "example": "My neighbor is very friendly.\n我的鄰居很友善。",
-      "sound": 2790
+      "term": "negative",
+      "definition": "adj. 否定的;負面的",
+      "example": "The test result was negative.\n檢測結果呈陰性。",
+      "sound": 1783
     },
     {
       "term": "neighbor",
@@ -5105,16 +5099,22 @@
       "sound": 2090
     },
     {
-      "term": "neither",
-      "definition": "adv. 也不",
-      "example": "I don't like coffee, and neither does my sister.\n我不喜歡咖啡，我妹妹也不喜歡。",
-      "sound": 2295
+      "term": "neighbor",
+      "definition": "n. 鄰居",
+      "example": "My neighbor is very friendly.\n我的鄰居很友善。",
+      "sound": 2790
     },
     {
       "term": "neither",
       "definition": "adj. 兩者都不",
       "example": "Neither book is interesting.\n兩本書都不有趣。",
       "sound": 1784
+    },
+    {
+      "term": "neither",
+      "definition": "adv. 也不",
+      "example": "I don't like coffee, and neither does my sister.\n我不喜歡咖啡，我妹妹也不喜歡。",
+      "sound": 2295
     },
     {
       "term": "neither",
@@ -5130,15 +5130,15 @@
     },
     {
       "term": "nest",
-      "definition": "v. 築巢;巢居;伏窩",
-      "example": "The bird built a nest in the tree.\n這隻鳥在樹上築了一個巢。",
-      "sound": 2091
-    },
-    {
-      "term": "nest",
       "definition": "n. 巢",
       "example": "The bird built a nest in the tree.\n那隻鳥在樹上築了一個巢。",
       "sound": 2792
+    },
+    {
+      "term": "nest",
+      "definition": "v. 築巢;巢居;伏窩",
+      "example": "The bird built a nest in the tree.\n這隻鳥在樹上築了一個巢。",
+      "sound": 2091
     },
     {
       "term": "net",
@@ -5202,15 +5202,15 @@
     },
     {
       "term": "novel",
-      "definition": "n. 小說",
-      "example": "I just finished reading a great novel.\n我剛讀完一本很棒的小說。",
-      "sound": 2799
-    },
-    {
-      "term": "novel",
       "definition": "adj. 新的,新穎的,新奇的",
       "example": "The museum displayed a novel approach to art education.\n博物館展示了一種新穎的藝術教育方法。",
       "sound": 1786
+    },
+    {
+      "term": "novel",
+      "definition": "n. 小說",
+      "example": "I just finished reading a great novel.\n我剛讀完一本很棒的小說。",
+      "sound": 2799
     },
     {
       "term": "nut",
@@ -5258,15 +5258,15 @@
     },
     {
       "term": "official",
-      "definition": "adj. 官方的,法定的",
-      "example": "The official website has the latest information.\n官方網站有最新的資訊。",
-      "sound": 1787
+      "definition": "n. 官員,公務員",
+      "example": "The official announced the new policy.\n這位官員宣布了新的政策。",
+      "sound": 2803
     },
     {
       "term": "official",
-      "definition": "n. 官員,公務員",
-      "example": "The official announced the new policy.\n這位官員宣佈了新的政策。",
-      "sound": 2803
+      "definition": "adj. 官方的,法定的",
+      "example": "The official website has the latest information.\n官方網站有最新的資訊。",
+      "sound": 1787
     },
     {
       "term": "omit",
@@ -5372,15 +5372,15 @@
     },
     {
       "term": "package",
-      "definition": "n. 包裹",
-      "example": "I received a package in the mail today.\n我今天收到了郵件中的包裹。",
-      "sound": 2814
-    },
-    {
-      "term": "package",
       "definition": "v. 把...打包;包裝",
       "example": "She packaged the gift in colorful paper.\n她用彩色的紙包裝了禮物。",
       "sound": 2102
+    },
+    {
+      "term": "package",
+      "definition": "n. 包裹",
+      "example": "I received a package in the mail today.\n我今天收到了郵件中的包裹。",
+      "sound": 2814
     },
     {
       "term": "pain",
@@ -5391,7 +5391,7 @@
     {
       "term": "pain",
       "definition": "n. 疼痛;痛苦",
-      "example": "I felt a sharp pain in my leg.\n我感到腿部一陣劇痛。",
+      "example": "I felt a sharp pain in my leg.\n我感到腿部一阵剧痛。",
       "sound": 2815
     },
     {
@@ -5403,7 +5403,7 @@
     {
       "term": "painter",
       "definition": "n. 油漆匠;畫家",
-      "example": "The painter was hired to repaint the living room.\n油漆匠被僱用來重新粉刷客廳。",
+      "example": "The painter was hired to repaint the living room.\n油漆匠被雇用來重新粉刷客廳。",
       "sound": 2816
     },
     {
@@ -5488,27 +5488,27 @@
     },
     {
       "term": "paste",
-      "definition": "v. 黏貼",
-      "example": "Please paste the text into the document.\n請將文字黏貼到檔案中。",
-      "sound": 2106
-    },
-    {
-      "term": "paste",
       "definition": "n. 漿糊",
       "example": "I used paste to glue the paper together.\n我用漿糊把紙粘在一起。",
       "sound": 2827
     },
     {
-      "term": "pat",
-      "definition": "v. 輕拍,撫拍",
-      "example": "She patted the dog on the head.\n她輕拍了狗的頭。",
-      "sound": 2107
+      "term": "paste",
+      "definition": "v. 黏貼",
+      "example": "Please paste the text into the document.\n請將文字黏貼到文件中。",
+      "sound": 2106
     },
     {
       "term": "pat",
       "definition": "n. 輕拍,輕打",
       "example": "He gave the dog a pat on the head.\n他輕拍了狗狗的頭。",
       "sound": 2828
+    },
+    {
+      "term": "pat",
+      "definition": "v. 輕拍,撫拍",
+      "example": "She patted the dog on the head.\n她輕拍了狗的頭。",
+      "sound": 2107
     },
     {
       "term": "path",
@@ -5518,15 +5518,15 @@
     },
     {
       "term": "patient",
-      "definition": "adj. 有耐心的,能忍受的",
-      "example": "The patient doctor listened carefully to the woman's concerns.\n這位有耐心的醫生仔細聆聽了這位女士的擔憂。",
-      "sound": 1792
-    },
-    {
-      "term": "patient",
       "definition": "n. 病人",
       "example": "The patient is waiting for the doctor.\n病人正在等待醫生。",
       "sound": 2830
+    },
+    {
+      "term": "patient",
+      "definition": "adj. 有耐心的,能忍受的",
+      "example": "The patient doctor listened carefully to the woman's concerns.\n這位有耐心的醫生仔細聆聽了這位女士的擔憂。",
+      "sound": 1792
     },
     {
       "term": "pattern",
@@ -5537,7 +5537,7 @@
     {
       "term": "pattern",
       "definition": "n. 圖案;模式",
-      "example": "I like the floral pattern on the wallpaper.\n我喜歡桌布上的花卉圖案。",
+      "example": "I like the floral pattern on the wallpaper.\n我喜歡壁紙上的花卉圖案。",
       "sound": 2831
     },
     {
@@ -5578,15 +5578,15 @@
     },
     {
       "term": "pepper",
-      "definition": "v. 加胡椒粉於;使佈滿;嚴懲",
-      "example": "She peppered the soup with black pepper.\n她在湯裡加了黑胡椒粉。",
-      "sound": 2109
-    },
-    {
-      "term": "pepper",
       "definition": "n. 胡椒;辣椒",
       "example": "I like to add black pepper to my scrambled eggs.\n我喜歡在我的炒蛋裡加黑胡椒。",
       "sound": 2837
+    },
+    {
+      "term": "pepper",
+      "definition": "v. 加胡椒粉於;使佈滿;嚴懲",
+      "example": "She peppered the soup with black pepper.\n她在湯裡加了黑胡椒粉。",
+      "sound": 2109
     },
     {
       "term": "per",
@@ -5602,15 +5602,15 @@
     },
     {
       "term": "perfect",
-      "definition": "n. 完成式",
-      "example": "The project is now in the perfect.\n這個專案目前處於完成式。",
-      "sound": 2838
-    },
-    {
-      "term": "perfect",
       "definition": "v. 使完美;做完",
       "example": "She perfected her baking skills by practicing every day.\n她每天練習，使她的烘焙技巧臻於完美。",
       "sound": 2110
+    },
+    {
+      "term": "perfect",
+      "definition": "n. 完成式",
+      "example": "The project is now in the perfect.\n這個專案目前處於完成式。",
+      "sound": 2838
     },
     {
       "term": "period",
@@ -5626,15 +5626,15 @@
     },
     {
       "term": "phone",
-      "definition": "v. 打電話",
-      "example": "I will phone you later.\n我稍後會打電話給你。",
-      "sound": 2111
-    },
-    {
-      "term": "phone",
       "definition": "n. 電話",
       "example": "I need to use the phone.\n我需要用電話。",
       "sound": 2840
+    },
+    {
+      "term": "phone",
+      "definition": "v. 打電話",
+      "example": "I will phone you later.\n我稍後會打電話給你。",
+      "sound": 2111
     },
     {
       "term": "photo",
@@ -5650,15 +5650,15 @@
     },
     {
       "term": "photograph",
-      "definition": "n. 照片",
-      "example": "I took a photograph of the beautiful sunset.\n我拍了一張美麗日落的照片。",
-      "sound": 2842
-    },
-    {
-      "term": "photograph",
       "definition": "v. 拍照",
       "example": "I will photograph the beautiful sunset.\n我會拍下美麗的日落。",
       "sound": 2113
+    },
+    {
+      "term": "photograph",
+      "definition": "n. 照片",
+      "example": "I took a photograph of the beautiful sunset.\n我拍了一張美麗日落的照片。",
+      "sound": 2842
     },
     {
       "term": "photographer",
@@ -5670,7 +5670,7 @@
   [
     {
       "term": "phrase",
-      "definition": "n. 片語,片語",
+      "definition": "n. 片語,詞組",
       "example": "Learn a new phrase every day to improve your English.\n每天學習一個新片語來提升你的英文。",
       "sound": 2844
     },
@@ -5712,15 +5712,15 @@
     },
     {
       "term": "pile",
-      "definition": "v. 堆起",
-      "example": "She piled the books on the table.\n她把書堆在桌子上。",
-      "sound": 2117
-    },
-    {
-      "term": "pile",
       "definition": "n. 一堆",
       "example": "There was a pile of books on the table.\n桌子上有一堆書。",
       "sound": 2848
+    },
+    {
+      "term": "pile",
+      "definition": "v. 堆起",
+      "example": "She piled the books on the table.\n她把書堆在桌子上。",
+      "sound": 2117
     },
     {
       "term": "pillow",
@@ -5760,21 +5760,15 @@
     },
     {
       "term": "pink",
-      "definition": "adj. 粉紅色的",
-      "example": "She wore a pink dress to the party.\n她穿了一件粉紅色的洋裝去參加派對。",
-      "sound": 1796
-    },
-    {
-      "term": "pink",
       "definition": "n. 粉紅色",
       "example": "The little girl's favorite color is pink.\n那個小女孩最喜歡的顏色是粉紅色。",
       "sound": 2853
     },
     {
-      "term": "pipe",
-      "definition": "n. 管子",
-      "example": "The plumber fixed the broken water pipe.\n水管工人修好了壞掉的水管。",
-      "sound": 2854
+      "term": "pink",
+      "definition": "adj. 粉紅色的",
+      "example": "She wore a pink dress to the party.\n她穿了一件粉紅色的洋裝去參加派對。",
+      "sound": 1796
     },
     {
       "term": "pipe",
@@ -5783,16 +5777,22 @@
       "sound": 2120
     },
     {
-      "term": "pitch",
-      "definition": "v. 搭(帳篷);紮(營);為...定調",
-      "example": "We pitched our tent near the lake.\n我們在湖邊紮營。",
-      "sound": 2121
+      "term": "pipe",
+      "definition": "n. 管子",
+      "example": "The plumber fixed the broken water pipe.\n水管工人修好了壞掉的水管。",
+      "sound": 2854
     },
     {
       "term": "pitch",
       "definition": "n. 投;投球;音高",
       "example": "The pitcher threw a perfect pitch.\n投手投出了一個完美的球。",
       "sound": 2855
+    },
+    {
+      "term": "pitch",
+      "definition": "v. 搭(帳篷);紮(營);為...定調",
+      "example": "We pitched our tent near the lake.\n我們在湖邊紮營。",
+      "sound": 2121
     },
     {
       "term": "pizza",
@@ -5832,8 +5832,8 @@
     },
     {
       "term": "platform",
-      "definition": "n. 月臺;平臺",
-      "example": "The train arrived at the platform.\n火車抵達月臺。",
+      "definition": "n. 月台;平台",
+      "example": "The train arrived at the platform.\n火車抵達月台。",
       "sound": 2860
     },
     {
@@ -5856,12 +5856,6 @@
     },
     {
       "term": "plus",
-      "definition": "adj. 正的;外加的;有益的;陽性的;正電的",
-      "example": "The test result was plus.\n測試結果是陽性。",
-      "sound": 1800
-    },
-    {
-      "term": "plus",
       "definition": "n. 正號",
       "example": "The equation is 2 plus 2 equals 4.\n這個算式是 2 加 2 等於 4。",
       "sound": 2862
@@ -5871,6 +5865,12 @@
       "definition": "prep. 加(上)",
       "example": "Two plus two equals four.\n二加二等於四。",
       "sound": 2315
+    },
+    {
+      "term": "plus",
+      "definition": "adj. 正的;外加的;有益的;陽性的;正電的",
+      "example": "The test result was plus.\n測試結果是陽性。",
+      "sound": 1800
     },
     {
       "term": "poem",
@@ -5948,15 +5948,15 @@
     },
     {
       "term": "positive",
-      "definition": "n. 正面;正數;正片;(電池的)陽極",
-      "example": "The test result was positive.\n測試結果呈陽性。",
-      "sound": 2871
-    },
-    {
-      "term": "positive",
       "definition": "adj. 正面的;確信的",
       "example": "She has a positive attitude.\n她有積極的態度。",
       "sound": 1803
+    },
+    {
+      "term": "positive",
+      "definition": "n. 正面;正數;正片;(電池的)陽極",
+      "example": "The test result was positive.\n測試結果呈陽性。",
+      "sound": 2871
     },
     {
       "term": "possibility",
@@ -6002,15 +6002,15 @@
     },
     {
       "term": "pound",
-      "definition": "n. 磅",
-      "example": "I need to buy a pound of apples.\n我需要買一磅蘋果。",
-      "sound": 2877
-    },
-    {
-      "term": "pound",
       "definition": "v. 敲打;(心等)劇跳;腳步沈重地走",
       "example": "My heart pounded with excitement.\n我的心激動地劇烈跳動。",
       "sound": 2127
+    },
+    {
+      "term": "pound",
+      "definition": "n. 磅",
+      "example": "I need to buy a pound of apples.\n我需要買一磅蘋果。",
+      "sound": 2877
     },
     {
       "term": "powerful",
@@ -6050,6 +6050,12 @@
     },
     {
       "term": "present",
+      "definition": "adj. 出席的;當前的;現在式的",
+      "example": "Are you present for the meeting?\n你出席會議了嗎？",
+      "sound": 1805
+    },
+    {
+      "term": "present",
       "definition": "v. 提出",
       "example": "She presented her idea to the team.\n她向團隊提出了她的想法。",
       "sound": 2131
@@ -6061,22 +6067,10 @@
       "sound": 2880
     },
     {
-      "term": "present",
-      "definition": "adj. 出席的;當前的;現在式的",
-      "example": "Are you present for the meeting?\n你出席會議了嗎？",
-      "sound": 1805
-    },
-    {
       "term": "president",
       "definition": "n. 校長;總統",
       "example": "The president gave a speech at the graduation ceremony.\n校長在畢業典禮上發表了演講。",
       "sound": 2881
-    },
-    {
-      "term": "press",
-      "definition": "n. 新聞輿論",
-      "example": "The press reported extensively on the political scandal.\n新聞界廣泛報導了這起政治醜聞。",
-      "sound": 2882
     },
     {
       "term": "press",
@@ -6085,16 +6079,22 @@
       "sound": 2132
     },
     {
-      "term": "pride",
-      "definition": "n. 自豪,得意",
-      "example": "She felt a sense of pride after finishing the marathon.\n她跑完馬拉松後感到自豪。",
-      "sound": 2883
+      "term": "press",
+      "definition": "n. 新聞輿論",
+      "example": "The press reported extensively on the political scandal.\n新聞界廣泛報導了這起政治醜聞。",
+      "sound": 2882
     },
     {
       "term": "pride",
       "definition": "v. 使得意,以...自豪",
       "example": "She prides herself on her excellent cooking skills.\n她以她出色的烹飪技巧為榮。",
       "sound": 2133
+    },
+    {
+      "term": "pride",
+      "definition": "n. 自豪,得意",
+      "example": "She felt a sense of pride after finishing the marathon.\n她跑完馬拉松後感到自豪。",
+      "sound": 2883
     },
     {
       "term": "prince",
@@ -6112,15 +6112,15 @@
     },
     {
       "term": "principal",
-      "definition": "adj. 主要的,首要的;資本的,本金的",
-      "example": "The principal reason for the meeting was to discuss the budget.\n這次會議的主要原因是討論預算。",
-      "sound": 1806
+      "definition": "n. (中小學)校長",
+      "example": "The principal announced a new school policy.\n校長宣布了一項新的學校政策。",
+      "sound": 2886
     },
     {
       "term": "principal",
-      "definition": "n. (中小學)校長",
-      "example": "The principal announced a new school policy.\n校長宣佈了一項新的學校政策。",
-      "sound": 2886
+      "definition": "adj. 主要的,首要的;資本的,本金的",
+      "example": "The principal reason for the meeting was to discuss the budget.\n這次會議的主要原因是討論預算。",
+      "sound": 1806
     },
     {
       "term": "principle",
@@ -6131,7 +6131,7 @@
     {
       "term": "printer",
       "definition": "n. 印表機;印刷業者",
-      "example": "I need to buy a new printer.\n我需要買一臺新的印表機。",
+      "example": "I need to buy a new printer.\n我需要買一台新的印表機。",
       "sound": 2888
     },
     {
@@ -6154,15 +6154,15 @@
     },
     {
       "term": "prize",
-      "definition": "v. 重視,珍視;估價",
-      "example": "I prize our friendship.\n我珍視我們的友誼。",
-      "sound": 2134
-    },
-    {
-      "term": "prize",
       "definition": "n. 獎品",
       "example": "She won a prize for her excellent essay.\n她因為優秀的論文而獲得獎品。",
       "sound": 2891
+    },
+    {
+      "term": "prize",
+      "definition": "v. 重視,珍視;估價",
+      "example": "I prize our friendship.\n我珍視我們的友誼。",
+      "sound": 2134
     },
     {
       "term": "produce",
@@ -6191,14 +6191,8 @@
     {
       "term": "progress",
       "definition": "v. 前進;進行;上進,提高,進步",
-      "example": "The project is making good progress.\n這個專案正在順利進行。",
+      "example": "The project is making good progress.\n這個項目正在順利進行。",
       "sound": 2136
-    },
-    {
-      "term": "project",
-      "definition": "v. 計劃;企劃;突出,伸出;投射",
-      "example": "The company will project a new marketing campaign next month.\n這家公司下個月將企劃一個新的行銷活動。",
-      "sound": 2137
     },
     {
       "term": "project",
@@ -6207,16 +6201,22 @@
       "sound": 2895
     },
     {
-      "term": "promise",
-      "definition": "n. 承諾,諾言;希望,前途",
-      "example": "He kept his promise to visit her.\n他遵守了去看她的承諾。",
-      "sound": 2896
+      "term": "project",
+      "definition": "v. 計劃;企劃;突出,伸出;投射",
+      "example": "The company will project a new marketing campaign next month.\n這家公司下個月將企劃一個新的行銷活動。",
+      "sound": 2137
     },
     {
       "term": "promise",
       "definition": "v. 答應",
       "example": "He promised to help me.\n他答應要幫我。",
       "sound": 2138
+    },
+    {
+      "term": "promise",
+      "definition": "n. 承諾,諾言;希望,前途",
+      "example": "He kept his promise to visit her.\n他遵守了去看她的承諾。",
+      "sound": 2896
     },
     {
       "term": "pronounce",
@@ -6256,15 +6256,15 @@
     },
     {
       "term": "pump",
-      "definition": "v. 跳動;使用唧筒",
-      "example": "The heart pumps blood throughout the body.\n心臟將血液泵送到全身。",
-      "sound": 2143
-    },
-    {
-      "term": "pump",
       "definition": "n. 唧筒;打氣機;抽水機",
       "example": "The firefighters used a pump to get water out of the flooded basement.\n消防員使用唧筒將水從被淹沒的地下室抽出來。",
       "sound": 2898
+    },
+    {
+      "term": "pump",
+      "definition": "v. 跳動;使用唧筒",
+      "example": "The heart pumps blood throughout the body.\n心臟將血液泵送到全身。",
+      "sound": 2143
     },
     {
       "term": "pumpkin",
@@ -6305,20 +6305,20 @@
     {
       "term": "purse",
       "definition": "n. 錢包",
-      "example": "She opened her purse to pay for the coffee.\n她開啟錢包付咖啡錢。",
+      "example": "She opened her purse to pay for the coffee.\n她打開錢包付咖啡錢。",
       "sound": 2904
-    },
-    {
-      "term": "puzzle",
-      "definition": "v. 使迷惑",
-      "example": "The confusing instructions puzzle me.\n那些令人困惑的指示讓我感到迷惑。",
-      "sound": 2145
     },
     {
       "term": "puzzle",
       "definition": "n. 謎",
       "example": "I couldn't solve the puzzle.\n我解不開這個謎題。",
       "sound": 2905
+    },
+    {
+      "term": "puzzle",
+      "definition": "v. 使迷惑",
+      "example": "The confusing instructions puzzle me.\n那些令人困惑的指示讓我感到迷惑。",
+      "sound": 2145
     }
   ],
   [
@@ -6354,15 +6354,15 @@
     },
     {
       "term": "quiz",
-      "definition": "n. 小考",
-      "example": "We have a quiz on Monday.\n我們星期一有一場小考。",
-      "sound": 2909
-    },
-    {
-      "term": "quiz",
       "definition": "v. 挖苦,嘲弄;考問",
       "example": "The teacher quizzed the students on their knowledge of history.\n老師考問了學生們關於歷史的知識。",
       "sound": 2148
+    },
+    {
+      "term": "quiz",
+      "definition": "n. 小考",
+      "example": "We have a quiz on Monday.\n我們星期一有一場小考。",
+      "sound": 2909
     },
     {
       "term": "rabbit",
@@ -6426,15 +6426,15 @@
     },
     {
       "term": "record",
-      "definition": "v. 記錄;錄音",
-      "example": "I need to record this meeting.\n我需要錄下這次會議。",
-      "sound": 2151
-    },
-    {
-      "term": "record",
       "definition": "n. 記錄;唱片",
       "example": "I need to keep a record of my expenses.\n我需要記錄我的支出。",
       "sound": 2913
+    },
+    {
+      "term": "record",
+      "definition": "v. 記錄;錄音",
+      "example": "I need to record this meeting.\n我需要錄下這次會議。",
+      "sound": 2151
     },
     {
       "term": "rectangle",
@@ -6474,15 +6474,15 @@
     },
     {
       "term": "regular",
-      "definition": "adj. 通常的;定期的",
-      "example": "I take a regular bus to work.\n我搭乘常規的巴士上班。",
-      "sound": 1813
-    },
-    {
-      "term": "regular",
       "definition": "n. 正規兵;老客戶;長工;普通尺寸",
       "example": "He's a regular at the coffee shop.\n他是這家咖啡店的老顧客。",
       "sound": 2918
+    },
+    {
+      "term": "regular",
+      "definition": "adj. 通常的;定期的",
+      "example": "I take a regular bus to work.\n我搭乘常規的巴士上班。",
+      "sound": 1813
     },
     {
       "term": "reject",
@@ -6516,15 +6516,15 @@
     },
     {
       "term": "reply",
-      "definition": "n. 答覆",
-      "example": "I sent an email, but I haven't received a reply yet.\n我寄了一封電子郵件，但我還沒收到回覆。",
-      "sound": 2922
-    },
-    {
-      "term": "reply",
       "definition": "v. 回答",
       "example": "I will reply to your email later.\n我稍後會回覆你的電子郵件。",
       "sound": 2156
+    },
+    {
+      "term": "reply",
+      "definition": "n. 答覆",
+      "example": "I sent an email, but I haven't received a reply yet.\n我寄了一封電子郵件，但我還沒收到回覆。",
+      "sound": 2922
     },
     {
       "term": "reporter",
@@ -6596,15 +6596,15 @@
     },
     {
       "term": "review",
-      "definition": "n. 復習",
-      "example": "I need to review my notes before the exam.\n我需要在考試前複習我的筆記。",
-      "sound": 2930
-    },
-    {
-      "term": "review",
       "definition": "v. 溫習;回顧",
       "example": "I need to review the notes before the exam.\n我在考試前需要溫習筆記。",
       "sound": 2160
+    },
+    {
+      "term": "review",
+      "definition": "n. 復習",
+      "example": "I need to review my notes before the exam.\n我需要在考試前複習我的筆記。",
+      "sound": 2930
     },
     {
       "term": "riches",
@@ -6668,15 +6668,15 @@
     },
     {
       "term": "rush",
-      "definition": "n. 急速行動;(交通等的)繁忙;搶購",
-      "example": "The morning rush hour can be very stressful.\n早晨的交通高峰期可能非常令人有壓力。",
-      "sound": 2937
-    },
-    {
-      "term": "rush",
       "definition": "v. 催促;急送",
       "example": "The paramedics rushed the injured person to the hospital.\n醫護人員急忙將傷者送往醫院。",
       "sound": 2162
+    },
+    {
+      "term": "rush",
+      "definition": "n. 急速行動;(交通等的)繁忙;搶購",
+      "example": "The morning rush hour can be very stressful.\n早晨的交通高峰期可能非常令人有壓力。",
+      "sound": 2937
     },
     {
       "term": "safety",
@@ -6747,7 +6747,7 @@
     {
       "term": "science",
       "definition": "n. 科學",
-      "example": "Science helps us understand the world around us.\n科學幫助我們瞭解我們周圍的世界。",
+      "example": "Science helps us understand the world around us.\n科學幫助我們了解我們周圍的世界。",
       "sound": 2944
     },
     {
@@ -6766,15 +6766,15 @@
     },
     {
       "term": "score",
-      "definition": "v. 得分",
-      "example": "He scored a goal in the game.\n他在比賽中得了一分。",
-      "sound": 2167
-    },
-    {
-      "term": "score",
       "definition": "n. 得分; 二十; 刻痕; 樂譜",
       "example": "The basketball player scored a point.\n這位籃球球員得了一分。",
       "sound": 2947
+    },
+    {
+      "term": "score",
+      "definition": "v. 得分",
+      "example": "He scored a goal in the game.\n他在比賽中得了一分。",
+      "sound": 2167
     },
     {
       "term": "screen",
@@ -6790,15 +6790,15 @@
     },
     {
       "term": "search",
-      "definition": "n. 搜查,搜尋;檢查;探索,調查",
-      "example": "I need to do a search for my lost keys.\n我需要搜尋我遺失的鑰匙。",
-      "sound": 2949
-    },
-    {
-      "term": "search",
       "definition": "v. 搜尋;搜查",
       "example": "I will search the internet for information.\n我將在網路上搜尋資訊。",
       "sound": 2169
+    },
+    {
+      "term": "search",
+      "definition": "n. 搜查,搜尋;檢查;探索,調查",
+      "example": "I need to do a search for my lost keys.\n我需要搜尋我遺失的鑰匙。",
+      "sound": 2949
     },
     {
       "term": "secret",
@@ -6808,8 +6808,8 @@
     },
     {
       "term": "secret",
-      "definition": "adj. 神秘的,奧秘的",
-      "example": "The secret passage led to a hidden room.\n秘密的通道通往一間隱藏的房間。",
+      "definition": "adj. 神祕的,奧祕的",
+      "example": "The secret passage led to a hidden room.\n祕密的通道通往一間隱藏的房間。",
       "sound": 1819
     },
     {
@@ -6820,27 +6820,27 @@
     },
     {
       "term": "section",
-      "definition": "n. 節;斷面",
-      "example": "Please read the first section of the book.\n請閱讀這本書的第一節。",
-      "sound": 2952
-    },
-    {
-      "term": "section",
       "definition": "v. 把...分成段(或組等);將...切片",
       "example": "The chef sectioned the orange into perfect slices.\n廚師把橘子切成完美的片狀。",
       "sound": 2170
     },
     {
-      "term": "select",
-      "definition": "adj. 精選的;卓越的",
-      "example": "She chose a select group of students for the program.\n她為這個專案挑選了一群精選的學生。",
-      "sound": 1820
+      "term": "section",
+      "definition": "n. 節;斷面",
+      "example": "Please read the first section of the book.\n請閱讀這本書的第一節。",
+      "sound": 2952
     },
     {
       "term": "select",
       "definition": "v. 挑選",
       "example": "Please select your preferred option.\n請選擇你偏好的選項。",
       "sound": 2171
+    },
+    {
+      "term": "select",
+      "definition": "adj. 精選的;卓越的",
+      "example": "She chose a select group of students for the program.\n她為這個項目挑選了一群精選的學生。",
+      "sound": 1820
     },
     {
       "term": "selection",
@@ -6874,7 +6874,7 @@
     },
     {
       "term": "servant",
-      "definition": "n. 僱工",
+      "definition": "n. 雇工",
       "example": "The wealthy family employed a servant to clean their house.\n富裕人家僱用了一名傭人來打掃他們的房子。",
       "sound": 2955
     },
@@ -6910,32 +6910,32 @@
     },
     {
       "term": "shell",
-      "definition": "n. 殼,果殼;貝殼",
-      "example": "She found a beautiful seashell on the beach.\n她在海灘上找到一個美麗的貝殼。",
-      "sound": 2959
-    },
-    {
-      "term": "shell",
       "definition": "v. 剝...的殼;砲轟;射擊",
       "example": "The soldiers shelled the enemy camp.\n士兵們砲轟了敵方營地。",
       "sound": 2175
     },
     {
-      "term": "shock",
-      "definition": "n. 震驚",
-      "example": "The news came as a shock to everyone.\n這個訊息讓所有人都感到震驚。",
-      "sound": 2960
+      "term": "shell",
+      "definition": "n. 殼,果殼;貝殼",
+      "example": "She found a beautiful seashell on the beach.\n她在海灘上找到一個美麗的貝殼。",
+      "sound": 2959
     },
     {
       "term": "shock",
       "definition": "v. 使震動",
-      "example": "The news shocked everyone.\n這訊息震驚了所有人。",
+      "example": "The news shocked everyone.\n這消息震驚了所有人。",
       "sound": 2176
+    },
+    {
+      "term": "shock",
+      "definition": "n. 震驚",
+      "example": "The news came as a shock to everyone.\n這個消息讓所有人都感到震驚。",
+      "sound": 2960
     },
     {
       "term": "shocked",
       "definition": "adj. 震驚的",
-      "example": "I was shocked by the news.\n我對這個訊息感到震驚。",
+      "example": "I was shocked by the news.\n我對這個消息感到震驚。",
       "sound": 1823
     },
     {
@@ -6958,15 +6958,15 @@
     },
     {
       "term": "shower",
-      "definition": "n. 陣雨;淋浴",
-      "example": "I take a shower every morning.\n我每天早上都洗澡。",
-      "sound": 2963
-    },
-    {
-      "term": "shower",
       "definition": "v. 傾注;洗淋浴",
       "example": "I take a shower every morning.\n我每天早上洗澡。",
       "sound": 2178
+    },
+    {
+      "term": "shower",
+      "definition": "n. 陣雨;淋浴",
+      "example": "I take a shower every morning.\n我每天早上都洗澡。",
+      "sound": 2963
     },
     {
       "term": "shrimp",
@@ -6984,8 +6984,8 @@
     },
     {
       "term": "sign",
-      "definition": "v. 簽字;做訊號",
-      "example": "Please sign the document.\n請在檔案上簽字。",
+      "definition": "v. 簽字;做信號",
+      "example": "Please sign the document.\n請在文件上簽字。",
       "sound": 2179
     },
     {
@@ -6996,15 +6996,15 @@
     },
     {
       "term": "silence",
-      "definition": "n. 寂靜",
-      "example": "The library was filled with silence.\n圖書館裡充滿了寂靜。",
-      "sound": 2967
-    },
-    {
-      "term": "silence",
       "definition": "v. 使沈默;使啞口無言;使安靜",
       "example": "The teacher silenced the noisy students.\n老師讓吵鬧的學生安靜下來。",
       "sound": 2180
+    },
+    {
+      "term": "silence",
+      "definition": "n. 寂靜",
+      "example": "The library was filled with silence.\n圖書館裡充滿了寂靜。",
+      "sound": 2967
     },
     {
       "term": "silent",
@@ -7038,27 +7038,27 @@
     },
     {
       "term": "single",
-      "definition": "n. 單的;一壘安打",
-      "example": "The batter hit a single to left field.\n打者打出一壘安打到左外野。",
-      "sound": 2969
-    },
-    {
-      "term": "single",
       "definition": "v. 選出,挑出;擊出一壘安打",
       "example": "The batter singled to right field.\n打者擊出一壘安打到右外野。",
       "sound": 2181
     },
     {
-      "term": "sink",
-      "definition": "n. 洗物槽",
-      "example": "I need to wash the dishes in the sink.\n我需要在洗物槽裡洗碗。",
-      "sound": 2970
+      "term": "single",
+      "definition": "n. 單的;一壘安打",
+      "example": "The batter hit a single to left field.\n打者打出一壘安打到左外野。",
+      "sound": 2969
     },
     {
       "term": "sink",
       "definition": "v. 沉下;陷於",
       "example": "The ship began to sink after hitting an iceberg.\n船撞到冰山後開始沉沒。",
       "sound": 2182
+    },
+    {
+      "term": "sink",
+      "definition": "n. 洗物槽",
+      "example": "I need to wash the dishes in the sink.\n我需要在洗物槽裡洗碗。",
+      "sound": 2970
     },
     {
       "term": "skilled",
@@ -7080,15 +7080,15 @@
     },
     {
       "term": "skirt",
-      "definition": "v. 繞開,避開",
-      "example": "The politician skirted the question about his tax returns.\n這位政治人物避開了有關他報稅的問題。",
-      "sound": 2183
-    },
-    {
-      "term": "skirt",
       "definition": "n. 裙子",
       "example": "She wore a beautiful blue skirt.\n她穿了一件漂亮的藍色裙子。",
       "sound": 2971
+    },
+    {
+      "term": "skirt",
+      "definition": "v. 繞開,避開",
+      "example": "The politician skirted the question about his tax returns.\n這位政治人物避開了有關他報稅的問題。",
+      "sound": 2183
     },
     {
       "term": "sleepy",
@@ -7104,15 +7104,15 @@
     },
     {
       "term": "slide",
-      "definition": "v. 滑壘滑動",
-      "example": "The baseball player slid into second base.\n那位棒球員滑壘到二壘。",
-      "sound": 2184
+      "definition": "n. 滑梯;土崩",
+      "example": "The children loved to play on the slide at the playground.\n孩子们喜欢在游乐场的滑梯上玩耍。",
+      "sound": 2972
     },
     {
       "term": "slide",
-      "definition": "n. 滑梯;土崩",
-      "example": "The children loved to play on the slide at the playground.\n孩子們喜歡在遊樂場的滑梯上玩耍。",
-      "sound": 2972
+      "definition": "v. 滑壘滑動",
+      "example": "The baseball player slid into second base.\n那位棒球員滑壘到二壘。",
+      "sound": 2184
     },
     {
       "term": "slim",
@@ -7128,15 +7128,15 @@
     },
     {
       "term": "slip",
-      "definition": "v. 滑動;鬆脫",
-      "example": "Be careful not to slip on the ice.\n小心別在冰上滑倒。",
-      "sound": 2186
-    },
-    {
-      "term": "slip",
       "definition": "n. 滑跤",
       "example": "Be careful not to slip on the ice.\n小心不要在冰上滑倒。",
       "sound": 2973
+    },
+    {
+      "term": "slip",
+      "definition": "v. 滑動;鬆脫",
+      "example": "Be careful not to slip on the ice.\n小心別在冰上滑倒。",
+      "sound": 2186
     },
     {
       "term": "slipper",
@@ -7165,7 +7165,7 @@
     {
       "term": "snowy",
       "definition": "adj. 似雪的;多雪的",
-      "example": "The children built a snowman in the snowy park.\n孩子們在多雪的公園裡堆了一個雪人。",
+      "example": "The children built a snowman in the snowy park.\n孩子们在多雪的公园里堆了一个雪人。",
       "sound": 1833
     },
     {
@@ -7226,15 +7226,15 @@
     },
     {
       "term": "sort",
-      "definition": "n. 型別;排序",
-      "example": "What sort of music do you like?\n你喜歡什麼型別的音樂？",
-      "sound": 2983
+      "definition": "v. 把...分類",
+      "example": "Please sort the books by their genre.\n請按照類型把這些書分類。",
+      "sound": 2189
     },
     {
       "term": "sort",
-      "definition": "v. 把...分類",
-      "example": "Please sort the books by their genre.\n請按照型別把這些書分類。",
-      "sound": 2189
+      "definition": "n. 類型;排序",
+      "example": "What sort of music do you like?\n你喜歡什麼類型的音樂？",
+      "sound": 2983
     },
     {
       "term": "source",
@@ -7299,12 +7299,12 @@
     {
       "term": "spirit",
       "definition": "n. 精神",
-      "example": "Her spirit lifted when she heard the good news.\n當她聽到好訊息時，她的精神振奮起來。",
+      "example": "Her spirit lifted when she heard the good news.\n當她聽到好消息時，她的精神振奮起來。",
       "sound": 2992
     },
     {
       "term": "spot",
-      "definition": "v. 沾汙;察出",
+      "definition": "v. 沾污;察出",
       "example": "I spotted a familiar face in the crowd.\n我在人群中認出了一張熟悉的臉孔。",
       "sound": 2191
     },
@@ -7322,21 +7322,21 @@
     },
     {
       "term": "spread",
-      "definition": "v. 展開;散佈",
-      "example": "The news spread quickly.\n訊息迅速傳播開來。",
+      "definition": "v. 展開;散布",
+      "example": "The news spread quickly.\n消息迅速傳播開來。",
       "sound": 2192
-    },
-    {
-      "term": "spring",
-      "definition": "n. 春天;泉",
-      "example": "The flowers bloom in the spring.\n花朵在春天盛開。",
-      "sound": 2995
     },
     {
       "term": "spring",
       "definition": "v. 彈開;湧現;源(於)",
       "example": "The door sprang open.\n門突然彈開了。",
       "sound": 2193
+    },
+    {
+      "term": "spring",
+      "definition": "n. 春天;泉",
+      "example": "The flowers bloom in the spring.\n花朵在春天盛開。",
+      "sound": 2995
     },
     {
       "term": "square",
@@ -7358,20 +7358,20 @@
     },
     {
       "term": "stage",
-      "definition": "v. 上演;籌劃;發動",
-      "example": "The company will stage a new production of Hamlet next year.\n這間公司明年將上演一部新的哈姆雷特。",
-      "sound": 2194
-    },
-    {
-      "term": "stage",
       "definition": "n. 舞臺;(進展的)階段",
       "example": "The band took the stage at 8 pm.\n樂隊晚上8點登上舞臺。",
       "sound": 2998
     },
     {
+      "term": "stage",
+      "definition": "v. 上演;籌劃;發動",
+      "example": "The company will stage a new production of Hamlet next year.\n這間公司明年將上演一部新的哈姆雷特。",
+      "sound": 2194
+    },
+    {
       "term": "stamp",
       "definition": "v. 頓足;蓋印",
-      "example": "The official stamped the document.\n官員在檔案上蓋了章。",
+      "example": "The official stamped the document.\n官員在文件上蓋了章。",
       "sound": 2195
     },
     {
@@ -7406,17 +7406,17 @@
     },
     {
       "term": "steam",
-      "definition": "n. 蒸氣",
-      "example": "The steam from the kettle filled the kitchen.\n茶壺冒出的蒸氣瀰漫了廚房。",
-      "sound": 3002
+      "definition": "v. 蒸",
+      "example": "She steamed the vegetables for dinner.\n她蒸了蔬菜當晚餐。",
+      "sound": 2197
     }
   ],
   [
     {
       "term": "steam",
-      "definition": "v. 蒸",
-      "example": "She steamed the vegetables for dinner.\n她蒸了蔬菜當晚餐。",
-      "sound": 2197
+      "definition": "n. 蒸氣",
+      "example": "The steam from the kettle filled the kitchen.\n茶壺冒出的蒸氣瀰漫了廚房。",
+      "sound": 3002
     },
     {
       "term": "steel",
@@ -7432,15 +7432,15 @@
     },
     {
       "term": "stick",
-      "definition": "v. 黏貼;刺;戮;釘住;插牢;堅持",
-      "example": "Please stick the label on the package.\n請把標籤貼在包裹上。",
-      "sound": 2199
-    },
-    {
-      "term": "stick",
       "definition": "n. 棍;棒;杖;枝條",
       "example": "He picked up a stick and threw it for the dog.\n他撿起一根棍子，朝狗狗丟去。",
       "sound": 3004
+    },
+    {
+      "term": "stick",
+      "definition": "v. 黏貼;刺;戮;釘住;插牢;堅持",
+      "example": "Please stick the label on the package.\n請把標籤貼在包裹上。",
+      "sound": 2199
     },
     {
       "term": "storm",
@@ -7468,15 +7468,15 @@
     },
     {
       "term": "straight",
-      "definition": "adj. 直的",
-      "example": "The road is straight.\n這條路是直的。",
-      "sound": 1838
-    },
-    {
-      "term": "straight",
       "definition": "n. 直,挺直;(紙牌)五張順牌",
       "example": "The arrow flew straight to the target.\n箭筆直地射向目標。",
       "sound": 3007
+    },
+    {
+      "term": "straight",
+      "definition": "adj. 直的",
+      "example": "The road is straight.\n這條路是直的。",
+      "sound": 1838
     },
     {
       "term": "stranger",
@@ -7498,27 +7498,27 @@
     },
     {
       "term": "stream",
-      "definition": "n. 溪流",
-      "example": "The children played in the stream.\n孩子們在溪流裡玩耍。",
-      "sound": 3011
-    },
-    {
-      "term": "stream",
       "definition": "v. 流;蜂擁而進",
       "example": "People streamed into the stadium.\n人們蜂擁進入體育場。",
       "sound": 2201
     },
     {
-      "term": "stress",
-      "definition": "v. 強調",
-      "example": "The speaker stressed the importance of practice.\n演講者強調練習的重要性。",
-      "sound": 2202
+      "term": "stream",
+      "definition": "n. 溪流",
+      "example": "The children played in the stream.\n孩子们在溪流里玩耍。",
+      "sound": 3011
     },
     {
       "term": "stress",
       "definition": "n. 壓力",
       "example": "I'm feeling a lot of stress at work.\n我在工作中感到很大的壓力。",
       "sound": 3012
+    },
+    {
+      "term": "stress",
+      "definition": "v. 強調",
+      "example": "The speaker stressed the importance of practice.\n演講者強調練習的重要性。",
+      "sound": 2202
     },
     {
       "term": "stretch",
@@ -7564,15 +7564,15 @@
     },
     {
       "term": "struggle",
-      "definition": "n. 使勁;掙扎",
-      "example": "The swimmer struggled against the strong current.\n游泳者奮力對抗強勁的水流。",
-      "sound": 3016
+      "definition": "v. 掙扎;對抗",
+      "example": "She struggled to open the heavy door.\n她費力地想打開那扇沉重的門。",
+      "sound": 2206
     },
     {
       "term": "struggle",
-      "definition": "v. 掙扎;對抗",
-      "example": "She struggled to open the heavy door.\n她費力地想開啟那扇沉重的門。",
-      "sound": 2206
+      "definition": "n. 使勁;掙扎",
+      "example": "The swimmer struggled against the strong current.\n游泳者奮力對抗強勁的水流。",
+      "sound": 3016
     },
     {
       "term": "subject",
@@ -7624,17 +7624,17 @@
     },
     {
       "term": "suit",
-      "definition": "n. 一套衣服;訴訟",
-      "example": "He wore a business suit to the meeting.\n他穿著一套西裝去參加會議。",
-      "sound": 3021
+      "definition": "v. 適合;相稱;彼此協調",
+      "example": "This color suits you very well.\n這個顏色非常適合你。",
+      "sound": 2209
     }
   ],
   [
     {
       "term": "suit",
-      "definition": "v. 適合;相稱;彼此協調",
-      "example": "This color suits you very well.\n這個顏色非常適合你。",
-      "sound": 2209
+      "definition": "n. 一套衣服;訴訟",
+      "example": "He wore a business suit to the meeting.\n他穿著一套西裝去參加會議。",
+      "sound": 3021
     },
     {
       "term": "sunny",
@@ -7662,27 +7662,27 @@
     },
     {
       "term": "support",
-      "definition": "v. 支援",
-      "example": "I support your decision.\n我支援你的決定。",
+      "definition": "v. 支持",
+      "example": "I support your decision.\n我支持你的決定。",
       "sound": 2211
     },
     {
       "term": "support",
-      "definition": "n. 支援",
-      "example": "I need your support.\n我需要你的支援。",
+      "definition": "n. 支持",
+      "example": "I need your support.\n我需要你的支持。",
       "sound": 3024
-    },
-    {
-      "term": "surface",
-      "definition": "n. 表面",
-      "example": "The surface of the water was calm.\n水面很平靜。",
-      "sound": 3025
     },
     {
       "term": "surface",
       "definition": "v. 顯露,呈現;起床,露面",
       "example": "The divers surfaced after an hour underwater.\n潛水員在水下一個小時後浮出水面。",
       "sound": 2212
+    },
+    {
+      "term": "surface",
+      "definition": "n. 表面",
+      "example": "The surface of the water was calm.\n水面很平靜。",
+      "sound": 3025
     },
     {
       "term": "survive",
@@ -7692,15 +7692,15 @@
     },
     {
       "term": "swallow",
-      "definition": "v. 吞嚥",
-      "example": "The baby swallows the food.\n嬰兒吞嚥食物。",
-      "sound": 2214
-    },
-    {
-      "term": "swallow",
       "definition": "n. 吞嚥;燕子",
       "example": "The swallow flew gracefully through the air.\n燕子優雅地在空中飛翔。",
       "sound": 3026
+    },
+    {
+      "term": "swallow",
+      "definition": "v. 吞嚥",
+      "example": "The baby swallows the food.\n嬰兒吞嚥食物。",
+      "sound": 2214
     },
     {
       "term": "swan",
@@ -7735,7 +7735,7 @@
     {
       "term": "swing",
       "definition": "n. 鞦韆;搖擺音樂",
-      "example": "The children were playing on the swing in the park.\n孩子們在公園裡的鞦韆上玩耍。",
+      "example": "The children were playing on the swing in the park.\n孩子们在公园里的秋千上玩耍。",
       "sound": 3030
     },
     {
@@ -7788,15 +7788,15 @@
     },
     {
       "term": "target",
-      "definition": "v. 把...作為目標(或物件)",
-      "example": "The company targeted young adults with its new marketing campaign.\n這家公司的新行銷活動以年輕成年人為目標。",
-      "sound": 2218
+      "definition": "n. 目標",
+      "example": "The target of the investigation is to find the missing documents.\n調查的目標是找到遺失的文件。",
+      "sound": 3037
     },
     {
       "term": "target",
-      "definition": "n. 目標",
-      "example": "The target of the investigation is to find the missing documents.\n調查的目標是找到遺失的檔案。",
-      "sound": 3037
+      "definition": "v. 把...作為目標(或對象)",
+      "example": "The company targeted young adults with its new marketing campaign.\n這家公司的新行銷活動以年輕成年人為目標。",
+      "sound": 2218
     },
     {
       "term": "task",
@@ -7813,14 +7813,8 @@
     {
       "term": "tasty",
       "definition": "adj. 高雅的;大方的",
-      "example": "The interior design of the restaurant was tasty, with elegant furnishings and a warm atmosphere.\n這間餐廳的室內設計很高雅，有著優雅的傢俱和溫暖的氛圍。",
+      "example": "The interior design of the restaurant was tasty, with elegant furnishings and a warm atmosphere.\n這間餐廳的室內設計很高雅，有著優雅的家具和溫暖的氛圍。",
       "sound": 1844
-    },
-    {
-      "term": "team",
-      "definition": "v. 使合作;結成一隊",
-      "example": "The project team will team up to finish the work.\n專案團隊將合作完成這項工作。",
-      "sound": 2220
     },
     {
       "term": "team",
@@ -7829,16 +7823,22 @@
       "sound": 3039
     },
     {
-      "term": "tear",
-      "definition": "v. 撕",
-      "example": "I tore the paper in half.\n我把紙撕成兩半。",
-      "sound": 2221
+      "term": "team",
+      "definition": "v. 使合作;結成一隊",
+      "example": "The project team will team up to finish the work.\n專案團隊將合作完成這項工作。",
+      "sound": 2220
     },
     {
       "term": "tear",
       "definition": "n. 眼淚",
       "example": "A tear rolled down her cheek.\n一滴眼淚從她的臉頰滑落。",
       "sound": 3040
+    },
+    {
+      "term": "tear",
+      "definition": "v. 撕",
+      "example": "I tore the paper in half.\n我把紙撕成兩半。",
+      "sound": 2221
     },
     {
       "term": "teen",
@@ -7922,15 +7922,15 @@
     },
     {
       "term": "test",
-      "definition": "v. 試驗;測驗",
-      "example": "I will test the new software tomorrow.\n我明天將會測試新的軟體。",
-      "sound": 2224
-    },
-    {
-      "term": "test",
       "definition": "n. 測驗;考試",
       "example": "I have a test tomorrow.\n我明天有一場考試。",
       "sound": 3049
+    },
+    {
+      "term": "test",
+      "definition": "v. 試驗;測驗",
+      "example": "I will test the new software tomorrow.\n我明天將會測試新的軟體。",
+      "sound": 2224
     },
     {
       "term": "textbook",
@@ -7982,21 +7982,15 @@
     },
     {
       "term": "through",
-      "definition": "adv. 穿過,透過;從頭至尾;(電話)接通",
-      "example": "I walked through the park.\n我穿過公園。",
-      "sound": 2303
-    },
-    {
-      "term": "through",
       "definition": "prep. 經過",
       "example": "We walked through the forest.\n我們穿過森林。",
       "sound": 2316
     },
     {
-      "term": "throughout",
-      "definition": "adv. 處處;始終;在所有方面",
-      "example": "The museum is open throughout the year.\n博物館全年開放。",
-      "sound": 2304
+      "term": "through",
+      "definition": "adv. 穿過,通過;從頭至尾;(電話)接通",
+      "example": "I walked through the park.\n我穿過公園。",
+      "sound": 2303
     },
     {
       "term": "throughout",
@@ -8005,16 +7999,22 @@
       "sound": 2317
     },
     {
-      "term": "thumb",
-      "definition": "n. 拇指",
-      "example": "I hurt my thumb while playing basketball.\n我在打籃球時弄傷了我的拇指。",
-      "sound": 3054
+      "term": "throughout",
+      "definition": "adv. 處處;始終;在所有方面",
+      "example": "The museum is open throughout the year.\n博物館全年開放。",
+      "sound": 2304
     },
     {
       "term": "thumb",
       "definition": "v. 用拇指翻動;迅速翻閱;豎起拇指要求搭車",
       "example": "She thumbed through the magazine, looking for the article.\n她快速翻閱雜誌，尋找那篇文章。",
       "sound": 2225
+    },
+    {
+      "term": "thumb",
+      "definition": "n. 拇指",
+      "example": "I hurt my thumb while playing basketball.\n我在打籃球時弄傷了我的拇指。",
+      "sound": 3054
     },
     {
       "term": "thunder",
@@ -8122,27 +8122,27 @@
     },
     {
       "term": "tour",
-      "definition": "v. 帶...作巡迴演出",
-      "example": "The band will tour Europe next year.\n樂隊明年將在歐洲巡迴演出。",
-      "sound": 2232
-    },
-    {
-      "term": "tour",
       "definition": "n. 旅行",
       "example": "We went on a tour of the city.\n我們參加了一趟城市之旅。",
       "sound": 3066
     },
     {
-      "term": "towel",
-      "definition": "v. 用毛巾擦",
-      "example": "I towelled myself dry after the shower.\n我洗完澡後用毛巾擦乾了身體。",
-      "sound": 2233
+      "term": "tour",
+      "definition": "v. 帶...作巡迴演出",
+      "example": "The band will tour Europe next year.\n樂隊明年將在歐洲巡迴演出。",
+      "sound": 2232
     },
     {
       "term": "towel",
       "definition": "n. 毛巾",
       "example": "I used a towel to dry my hands.\n我用毛巾擦乾我的手。",
       "sound": 3067
+    },
+    {
+      "term": "towel",
+      "definition": "v. 用毛巾擦",
+      "example": "I towelled myself dry after the shower.\n我洗完澡後用毛巾擦乾了身體。",
+      "sound": 2233
     },
     {
       "term": "tower",
@@ -8170,15 +8170,15 @@
     },
     {
       "term": "trade",
-      "definition": "n. 貿易",
-      "example": "International trade is important for economic growth.\n國際貿易對經濟成長很重要。",
-      "sound": 3070
-    },
-    {
-      "term": "trade",
       "definition": "v. 交換; 做買賣,進行交易",
       "example": "They trade goods and services.\n他們交換貨物和服務。",
       "sound": 2236
+    },
+    {
+      "term": "trade",
+      "definition": "n. 貿易",
+      "example": "International trade is important for economic growth.\n國際貿易對經濟成長很重要。",
+      "sound": 3070
     },
     {
       "term": "tradition",
@@ -8206,21 +8206,15 @@
     },
     {
       "term": "trap",
-      "definition": "v. 設陷阱",
-      "example": "The hunter trapped the rabbit.\n獵人設陷阱捕捉兔子。",
-      "sound": 2238
-    },
-    {
-      "term": "trap",
       "definition": "n. 陷阱;圈套",
       "example": "The hunter set a trap for the rabbit.\n獵人為兔子設了一個陷阱。",
       "sound": 3073
     },
     {
-      "term": "travel",
-      "definition": "n. 旅行",
-      "example": "I love to travel.\n我喜歡旅行。",
-      "sound": 3074
+      "term": "trap",
+      "definition": "v. 設陷阱",
+      "example": "The hunter trapped the rabbit.\n獵人設陷阱捕捉兔子。",
+      "sound": 2238
     },
     {
       "term": "travel",
@@ -8229,16 +8223,22 @@
       "sound": 2239
     },
     {
-      "term": "treasure",
-      "definition": "v. 珍愛",
-      "example": "I treasure my friendship with her.\n我珍愛我與她的友誼。",
-      "sound": 2240
+      "term": "travel",
+      "definition": "n. 旅行",
+      "example": "I love to travel.\n我喜歡旅行。",
+      "sound": 3074
     },
     {
       "term": "treasure",
       "definition": "n. 財寶",
       "example": "The pirates found a chest full of treasure.\n海盜們發現了一個裝滿財寶的箱子。",
       "sound": 3075
+    },
+    {
+      "term": "treasure",
+      "definition": "v. 珍愛",
+      "example": "I treasure my friendship with her.\n我珍愛我與她的友誼。",
+      "sound": 2240
     },
     {
       "term": "treat",
@@ -8304,15 +8304,15 @@
     },
     {
       "term": "trumpet",
-      "definition": "n. 小喇叭",
-      "example": "The trumpet player warmed up before the concert.\n小喇叭演奏者在音樂會前熱身。",
-      "sound": 3083
-    },
-    {
-      "term": "trumpet",
       "definition": "v. 吹喇叭",
       "example": "He trumpeted a fanfare to announce the arrival of the king.\n他吹奏了喇叭聲，宣告國王的到來。",
       "sound": 2244
+    },
+    {
+      "term": "trumpet",
+      "definition": "n. 小喇叭",
+      "example": "The trumpet player warmed up before the concert.\n小喇叭演奏者在音樂會前熱身。",
+      "sound": 3083
     },
     {
       "term": "trust",
@@ -8364,15 +8364,15 @@
     },
     {
       "term": "type",
-      "definition": "n. 型別",
-      "example": "What type of music do you like?\n你喜歡哪一種型別的音樂？",
-      "sound": 3090
-    },
-    {
-      "term": "type",
       "definition": "v. 打字",
       "example": "I need to type this letter.\n我需要打這封信。",
       "sound": 2247
+    },
+    {
+      "term": "type",
+      "definition": "n. 類型",
+      "example": "What type of music do you like?\n你喜歡哪一種類型的音樂？",
+      "sound": 3090
     },
     {
       "term": "typhoon",
@@ -8406,14 +8406,8 @@
     },
     {
       "term": "uniform",
-      "definition": "n. 制服",
-      "example": "The students wear a uniform to school.\n學生們穿著制服上學。",
-      "sound": 3095
-    },
-    {
-      "term": "uniform",
       "definition": "v. 使成一樣;使一律化",
-      "example": "The new policy aims to uniform the company's procedures.\n新政策旨在統一公司的程式。",
+      "example": "The new policy aims to uniform the company's procedures.\n新政策旨在統一公司的程序。",
       "sound": 2248
     },
     {
@@ -8421,6 +8415,12 @@
       "definition": "adj. 相同的,一致的;不變的",
       "example": "The soldiers wore a uniform.\n士兵們穿著制服。",
       "sound": 1853
+    },
+    {
+      "term": "uniform",
+      "definition": "n. 制服",
+      "example": "The students wear a uniform to school.\n學生們穿著制服上學。",
+      "sound": 3095
     },
     {
       "term": "upon",
@@ -8472,15 +8472,15 @@
     },
     {
       "term": "value",
-      "definition": "v. 估價,評價;尊重;重視",
-      "example": "I value your opinion.\n我重視你的意見。",
-      "sound": 2250
-    },
-    {
-      "term": "value",
       "definition": "n. 價值",
       "example": "The value of a good education is immeasurable.\n良好教育的價值是無法衡量的。",
       "sound": 3099
+    },
+    {
+      "term": "value",
+      "definition": "v. 估價,評價;尊重;重視",
+      "example": "I value your opinion.\n我重視你的意見。",
+      "sound": 2250
     },
     {
       "term": "victory",
@@ -8523,7 +8523,7 @@
     {
       "term": "vocabulary",
       "definition": "n. 字彙",
-      "example": "I am trying to expand my vocabulary.\n我正在努力擴充套件我的字彙量。",
+      "example": "I am trying to expand my vocabulary.\n我正在努力擴展我的字彙量。",
       "sound": 3105
     },
     {
@@ -8534,15 +8534,15 @@
     },
     {
       "term": "vote",
-      "definition": "v. 投票",
-      "example": "I will vote in the election tomorrow.\n我明天會在選舉中投票。",
-      "sound": 2251
-    },
-    {
-      "term": "vote",
       "definition": "n. 選舉,投票,表決",
       "example": "I will vote in the upcoming election.\n我將在即將到來的選舉中投票。",
       "sound": 3107
+    },
+    {
+      "term": "vote",
+      "definition": "v. 投票",
+      "example": "I will vote in the election tomorrow.\n我明天會在選舉中投票。",
+      "sound": 2251
     },
     {
       "term": "voter",
@@ -8594,15 +8594,15 @@
     },
     {
       "term": "wave",
-      "definition": "n. 波浪",
-      "example": "The waves crashed against the shore.\n波浪拍打著海岸。",
-      "sound": 3115
-    },
-    {
-      "term": "wave",
       "definition": "v. 揮動",
       "example": "She waved goodbye to her friend.\n她向她的朋友揮手告別。",
       "sound": 2253
+    },
+    {
+      "term": "wave",
+      "definition": "n. 波浪",
+      "example": "The waves crashed against the shore.\n波浪拍打著海岸。",
+      "sound": 3115
     },
     {
       "term": "weapon",
@@ -8624,15 +8624,15 @@
     },
     {
       "term": "western",
-      "definition": "adj. 西方的",
-      "example": "I enjoy watching western movies.\n我喜歡看西部片。",
-      "sound": 1858
-    },
-    {
-      "term": "western",
       "definition": "n. 西部地區的人",
       "example": "The western was known for his bravery.\n這位西部人以他的勇敢而聞名。",
       "sound": 3118
+    },
+    {
+      "term": "western",
+      "definition": "adj. 西方的",
+      "example": "I enjoy watching western movies.\n我喜歡看西部片。",
+      "sound": 1858
     },
     {
       "term": "wet",
@@ -8660,15 +8660,15 @@
     },
     {
       "term": "wheel",
-      "definition": "v. 旋轉,轉動",
-      "example": "The car's wheels were spinning in the mud.\n汽車的輪胎在泥地裡打轉。",
-      "sound": 2256
-    },
-    {
-      "term": "wheel",
       "definition": "n. 輪子",
       "example": "The car has four wheels.\n這輛車有四個輪子。",
       "sound": 3120
+    },
+    {
+      "term": "wheel",
+      "definition": "v. 旋轉,轉動",
+      "example": "The car's wheels were spinning in the mud.\n汽車的輪胎在泥地裡打轉。",
+      "sound": 2256
     },
     {
       "term": "whenever",
@@ -8873,7 +8873,7 @@
     {
       "term": "yard",
       "definition": "n. 庭院;碼(3英呎)",
-      "example": "The children were playing in the yard.\n孩子們在庭院裡玩耍。",
+      "example": "The children were playing in the yard.\n孩子们在庭院里玩耍。",
       "sound": 3132
     },
     {

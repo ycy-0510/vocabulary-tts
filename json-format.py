@@ -24,7 +24,7 @@ os.makedirs(output_dir, exist_ok=True)
 # 每個 level 處理一次
 for level in range(1, 7):
     level_df = df[df["level"] == level].copy()
-    level_df = level_df.sort_values("word")  # 按照單字排序分組
+    level_df = level_df.sort_values("word", key=lambda col: col.str.lower())  # 按照單字排序分組,不分大小寫 （a>A>b>B）
 
     sets = []
     current_set = []
