@@ -2,3 +2,8 @@ tts.json
 /venv/
 *.xlsx
 *.pyc
+dictionary-api.md
+.log
+__pycache__/
+output_json/
+add_kk_to_def.py

@@ -13,7 +13,7 @@ df["idx"] = df.index + 1
 df.columns = [col.strip().lower() for col in df.columns]
 
 # 檢查必要欄位
-required_columns = {"word", "pos_chinese", "level", "example_en", "example_zh"}
+required_columns = {"word", "pos_chinese", "level", "example_en", "example_zh", "kk"}
 if not required_columns.issubset(set(df.columns)):
     raise ValueError(f"缺少欄位：{required_columns - set(df.columns)}")
 
@@ -36,6 +36,7 @@ for level in range(1, 7):
             "definition": row.pos_chinese,
             "example": example,
             "sound": row.idx,  # ← 使用原始 idx
+            "kk": row.kk if pd.notna(row.kk) else "",  # 處理可能的 NaN
         }
         current_set.append(entry)
 
